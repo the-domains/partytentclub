@@ -1,7 +1,7 @@
-name: partytentclub
+name: Income Boss
 favicon: null
-layout_spectrum: 0.21347742341458797
-typography_spectrum: 0.8770239211153239
+layout_spectrum: 0.88979
+typography_spectrum: 0.82824
 title: Income Boss
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6240251595154405
+    - '#ed1c24'
+    - '#c000c2'
+    - '#000000'
+    - '#ead9eb'
+    - '#a46ba8'
+  brandStrength: 0.875
   lightness: 0.3838571247179061
-  saturation: 0.9889409078750759
-  rhythmicContrast: 0.6465242435224354
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
