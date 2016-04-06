@@ -2,12 +2,13 @@ name: partytentclub
 favicon: null
 layout_spectrum: 0.21347742341458797
 typography_spectrum: 0.8770239211153239
+title: Income Boss
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75791708-2
   facebook: null
   twitter: null
 opengraph:
