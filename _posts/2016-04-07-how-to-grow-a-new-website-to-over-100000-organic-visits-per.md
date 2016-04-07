@@ -1,44 +1,34 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-07T05:12:45.208Z'
-dateModified: '2016-04-07T05:12:44.610Z'
+description: by
+datePublished: '2016-04-07T16:59:13.379Z'
+dateModified: '2016-04-07T16:59:08.018Z'
+title: 'How To Grow a New Website to Over 100,000 Organic Visits Per Month'
+author: []
+sourcePath: _posts/2016-04-07-how-to-grow-a-new-website-to-over-100000-organic-visits-per.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'How To Grow a New Website to Over 100,000 Organic Visits Per Month'
-author: []
-sourcePath: _posts/2016-04-07-how-to-grow-a-new-website-to-over-100000-organic-visits-per.md
-published: true
 url: how-to-grow-a-new-website-to-over-100000-organic-visits-per/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f03acf71-e8c8-4087-bf3d-137f1d1aeeca.jpg)
+
 # How To Grow a New Website to Over 100,000 Organic Visits Per Month
 
 by
 
 Nick
-
-\*[715 Comments][0][Follow me on Twitter][1]
-
-in[Content Strategy][2]
-
-,
-
-[SEO][3]
-
-,
-
-[User Growth][4]
 
 This is a case study on how I built a website that receives over 100,000 visitors per month, in less than 1 year, without spending $1 on advertising.
 
@@ -49,60 +39,24 @@ Before we dive in, allow me to clarify a few things:
 1. The website reached over 100,000 visitors in 9 months.
 2. This was a new domain, registered just a couple months before launch.
 3. This was done in a language I do not read nor speak (Japanese).
-4. Japanese is a[non-roman character language][5], making it nearly impossible to use most of the popular SEO tools.
+4. Japanese is a[non-roman character language][0], making it nearly impossible to use most of the popular SEO tools.
 
 The purpose of this post is to walk you through precisely how my team and I reached this milestone, the approach we took, and show how technical SEO combined with content strategy can deliver serious results.
 
-Table of Contents
-
-\[
-
-[hide][6]
-
-\]
-
-* [
-
-1Key Drivers of Traffic Growth][7]
-* [
-
-2First Month After Launch][8]
-* [
-
-3Nine Months After Launch][9]
-* [
-
-4Traffic Sources][10]
-* [
-
-5Building a Keyword Database][11]
-* [
-
-6Designing a Content Strategy][12]
-* [
-
-7Information Architecture with SEO in Mind][13]
-* [
-
-8Launch Before The Launch][14]
-* [
-
-9Choosing a Platform][15]
-* [
-
-10Hosting & Evolution][16]
-* [
-
-11The End Result][17]
-* [
-
-12Great, But Is It Repeatable?][18]
-* [
-
-13Benchmark And Grow][19]
-* [
-
-14Conclusion][20]
+* [1Key Drivers of Traffic Growth][1]
+* [2First Month After Launch][2]
+* [3Nine Months After Launch][3]
+* [4Traffic Sources][4]
+* [5Building a Keyword Database][5]
+* [6Designing a Content Strategy][6]
+* [7Information Architecture with SEO in Mind][7]
+* [8Launch Before The Launch][8]
+* [9Choosing a Platform][9]
+* [10Hosting & Evolution][10]
+* [11The End Result][11]
+* [12Great, But Is It Repeatable?][12]
+* [13Benchmark And Grow][13]
+* [14Conclusion][14]
 
 ### Key Drivers of Traffic Growth
 
@@ -110,26 +64,23 @@ There were a few key elements that led to the widespread and sustained growth of
 
 * **Math** -- we took a mathematical approach to designing an evaluation model that would allow us to gauge opportunities based on their potential returns. Ultimately this led to the creation of what we now call our keyword opportunity evaluation, which is a financial model that measures the approximate output (traffic) based on a finite set of inputs, including elements like average DA, number of links / linking domains, age of site, content footprint, etc.
 * **Analysis**-- Using our newly built algorithm we got to testing, creating websites to test content patterns and architecture. We were quick to declare defeat within verticals without traction, and paid close attention to where the traffic was growing the most. The algorithm started to take shape and after roughly 3 months was able to identify within an order of magnitude the amount of traffic we could acquire for a given set of costs.
-* **Pumpkin Hacking**-- This is a term that I[came across][21](thank you[Peter Da Vanzo][22]) that seems to describe exactly what we did to continue to[grow our traffic][23]by double and even triple digits, month after month. The core concept is simple; focus resources on building what works. What this meant for us was paying attention to the search verticals and content that received the most traffic, most comments, most social shares, and being quick to cut the cord on traffic that didn't perform.
+* **Pumpkin Hacking**-- This is a term that I[came across][15](thank you[Peter Da Vanzo][16]) that seems to describe exactly what we did to continue to[grow our traffic][17]by double and even triple digits, month after month. The core concept is simple; focus resources on building what works. What this meant for us was paying attention to the search verticals and content that received the most traffic, most comments, most social shares, and being quick to cut the cord on traffic that didn't perform.
 
 ### First Month After Launch
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4a9425-eac1-4062-bb97-6f262fd32d86.jpg)
 
 With zero promotion and no advertising, we had a decent first month, bringing in over 2,000 visitors. This was mostly due to our pre-launch strategy -- which I'll explain more later in this post.
 
 ### Nine Months After Launch
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7b883a5-0eac-40f0-a55d-641c065c6d61.jpg)
 
 After only 9 months we were 3 months ahead of schedule to pass 100,000 visitors with no signs of slowing down.
 
 **Do you want to get traffic results like these for your website?**  
-[Get a free SEO quote for your website »][24]
+[Get a free SEO quote for your website »][18]
 
 ### Traffic Sources
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a823f064-345d-416f-a423-07b9b4aacebb.jpg)
 
 As you can see in the screenshot above, organic search drives the most significant portion of our traffic. Referral traffic is almost entirely from blogs and industry publications, and campaigns is representative of the ads that we place,_only on our website_, to test different language and call to actions to drive conversions.
 
@@ -147,13 +98,13 @@ Essentially we targeted the low-hanging fruit; keywords identified by our model 
 
 I watched (obsessively) which phrases and topics generated the most traffic.
 
-As soon as a topic began to grow legs, we would focus additional[keyword research][25]on finding concepts and phrases that were both complimentary and contextually relevant.
+As soon as a topic began to grow legs, we would focus additional[keyword research][19]on finding concepts and phrases that were both complimentary and contextually relevant.
 
 ### Designing a Content Strategy
 
 This is the single hardest part of any content-focused website or project.
 
-The key to success on this particular project was taking a page out of[Jeff Bezos' book][26], and becoming obsessed with ourcustomers.
+The key to success on this particular project was taking a page out of[Jeff Bezos' book][20], and becoming obsessed with ourcustomers.
 
 We not only embarked on an aggressive a/b testing schedule, but we constantly reached out to our users for feedback.
 
@@ -185,7 +136,7 @@ Crawlable is nothing new to anyone in SEO; this simply means that the structure 
 
 To do this properly you need to make sure all of your code is in the right place, and more so, check how each crawler_sees_your page.
 
-Take every opportunity to[DRY out your code][27] as much as possible, remember modern code is designed to_cascade for a reason_.
+Take every opportunity to[DRY out your code][21] as much as possible, remember modern code is designed to_cascade for a reason_.
 
 Information_tiering_... is a concept I have long-time preached to anyone who has ever talked with me, at length, about SEO. It means that your URL architecture should be built in a way so authority flows upwards through your directories.
 
@@ -198,8 +149,7 @@ So something like NicksSEOFirm.com/Philadelphia/Specific-Location-Content. The s
 Link in sub-directories can feed authority to parent directories.
 
 A perfect example of this is local sitelinks for popular categories; tertiary directories with the most links and content which cause their upstream sub-directories to receive authority translating into higher rankings and local sitelinks.
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73a2f7f1-1116-4e88-88b8-d189b868d07c.jpg)
 
 ### Launch Before The Launch
 
@@ -207,7 +157,7 @@ The easiest way to ensure a successful product or website launch is to_launch_be
 
 What I mean is to build your prospect list well in advance of pulling the trigger to go live.
 
-John Doherty wrote[a great post on ProBlogger][28]that talks about the power of leveraging list-building pre-launch pages. By building a list of users before publishing your full website you are essentially guaranteeing traffic immediately upon launch.
+John Doherty wrote[a great post on ProBlogger][22]that talks about the power of leveraging list-building pre-launch pages. By building a list of users before publishing your full website you are essentially guaranteeing traffic immediately upon launch.
 
 Our pre-launch is how we were able to generate over 2,000 visitors within the first 30 days of taking the website live.
 
@@ -242,8 +192,7 @@ Once we were ready for public launch we setup chose a reasonably affordable VPS 
 By month 4 it was clear we were going to have to make some changes; load times began to bloat and large content pages were timing out. We beefed up the space and quadrupled the memory, which solved the problem temporarily until...
 
 We got some press.
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83acc82f-6f27-40a7-82f0-212a804fbaf6.jpg)
 
 On June 5th we were featured by one of the largest news publications in the world. We were able to handle almost 40,000 visits before out VPS crashed, hard.
 
@@ -254,8 +203,7 @@ We haven't crashed since.
 ### The End Result
 
 Not really the end result since this project is still enjoying a healthy and fruitful life, but after 9 months of careful planning, remaining flexible to the marketplace, and nurturing our most valued asset; our users, we surpassed our milestone of 100,000 visitors.
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/231441b5-6942-4084-86a2-6ee3fef67e4b.jpg)
 
 ### Great, But Is It Repeatable?
 
@@ -264,16 +212,12 @@ In case you weren't already thinking it, you are now.
 The answer is Yes.
 
 Taking what we learned and applying the concept of pumpkin hacking, we started a new blog at the end of July 2012 to test the transferability of our strategy, and here were the results:
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9eba8be-ad55-42af-b804-d05af3a319a0.jpg)
 
 In the first 12 days we had over 17,000 visitors. In the first full month, we had over 50,000 unique visitors coming to the website over 100,000 times (see below).
 
-Click to Enlarge
-
 And it didn't slow down...
-
-Click to Enlarge
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0838908c-d818-41fc-a166-f844c9fcb68c.jpg)
 
 By the end of the 3rd month we were receiving over 100,000 unique visitors, and over 200,000 visits.
 
@@ -281,7 +225,7 @@ By the end of the 3rd month we were receiving over 100,000 unique visitors, and 
 
 One of the best ways to get started on your path to increasing your site's organic traffic is to understand how much traffic potential is within your vertical, and to benchmark against it.
 
-Start by looking at the top 5 sites that rank for the big head terms you're targeting, and get a read on their traffic. To do this I like to use[similarweb.com's web traffic tool][29]. It provides a good relative measure of a website's traffic, sources, and some detailed data on where this traffic is coming from -- and best of all, it's free!
+Start by looking at the top 5 sites that rank for the big head terms you're targeting, and get a read on their traffic. To do this I like to use[similarweb.com's web traffic tool][23]. It provides a good relative measure of a website's traffic, sources, and some detailed data on where this traffic is coming from -- and best of all, it's free!
 
 ### Conclusion
 
@@ -291,43 +235,37 @@ You have to keep in mind though- this is not easy if you don't have a specialize
 
 With careful planning, an SEO focused content strategy, and an understanding of the power of information architecture -- you can grow a new website to over 100,000 organic visitors per month in less than 1 year.
 
-**Want similar results to happen to your site?[Request][30]a free SEO quote now!**
+**[Want similar results to happen to your site?Requesta free SEO quote now!][18]**
 
-Following this case study I also wrote about[lead generation][31]using contests.
+Following this case study I also wrote about[lead generation][24]using contests.
 
 Please share your thoughts, feelings, and questions in the comments below.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/291439fe-06d4-49c8-89c9-18ad3b751606.jpg)
 
 Thanks for reading.
 
-[0]: http://www.seonick.net/100000-visitors-per-month/#disqus_thread
-[1]: http://twitter.com/seonick_
-[2]: http://www.seonick.net/content-strategy/
-[3]: http://www.seonick.net/seo/
-[4]: http://www.seonick.net/user-growth/
-[5]: http://en.wikipedia.org/wiki/Japanese_language "Japanese Non-Roman Character Language"
-[6]: http://www.seonick.net/100000-visitors-per-month/
-[7]: http://www.seonick.net/100000-visitors-per-month/#Key_Drivers_of_Traffic_Growth
-[8]: http://www.seonick.net/100000-visitors-per-month/#First_Month_After_Launch
-[9]: http://www.seonick.net/100000-visitors-per-month/#Nine_Months_After_Launch
-[10]: http://www.seonick.net/100000-visitors-per-month/#Traffic_Sources
-[11]: http://www.seonick.net/100000-visitors-per-month/#Building_a_Keyword_Database
-[12]: http://www.seonick.net/100000-visitors-per-month/#Designing_a_Content_Strategy
-[13]: http://www.seonick.net/100000-visitors-per-month/#Information_Architecture_with_SEO_in_Mind
-[14]: http://www.seonick.net/100000-visitors-per-month/#Launch_Before_The_Launch
-[15]: http://www.seonick.net/100000-visitors-per-month/#Choosing_a_Platform
-[16]: http://www.seonick.net/100000-visitors-per-month/#Hosting_Evolution
-[17]: http://www.seonick.net/100000-visitors-per-month/#The_End_Result
-[18]: http://www.seonick.net/100000-visitors-per-month/#Great_But_Is_It_Repeatable
-[19]: http://www.seonick.net/100000-visitors-per-month/#Benchmark_And_Grow
-[20]: http://www.seonick.net/100000-visitors-per-month/#Conclusion
-[21]: http://www.seobook.com/business-lessons "Business Lessons From Pumpkin Hackers"
-[22]: http://www.peterdavanzo.com/ "Peter Davanzo - Digital Marketing Consultant"
-[23]: http://www.seonick.net/lead-generation/
-[24]: http://www.seonick.net/seo-services/ "SEO Consulting Services"
-[25]: http://www.seonick.net/keyword-research/ "Keyword Research for SEO"
-[26]: http://youtu.be/-hxX_Q5CnaA "Jeff Bezos on Customers"
-[27]: http://c2.com/cgi/wiki?DontRepeatYourself "Don't Repeat Yourself"
-[28]: http://www.problogger.net/archives/2012/10/17/build-your-list-before-you-launch-using-launchrock/ "Build Your List Before You Launch, Using Launchrock"
-[29]: http://www.similarweb.com/ "SimilarWeb Web Traffic Tool"
-[30]: http://www.seonick.net/seo-services/
-[31]: http://www.seonick.net/qualified-leads-with-contests/
+[0]: http://en.wikipedia.org/wiki/Japanese_language "Japanese Non-Roman Character Language"
+[1]: http://www.seonick.net/100000-visitors-per-month/#Key_Drivers_of_Traffic_Growth
+[2]: http://www.seonick.net/100000-visitors-per-month/#First_Month_After_Launch
+[3]: http://www.seonick.net/100000-visitors-per-month/#Nine_Months_After_Launch
+[4]: http://www.seonick.net/100000-visitors-per-month/#Traffic_Sources
+[5]: http://www.seonick.net/100000-visitors-per-month/#Building_a_Keyword_Database
+[6]: http://www.seonick.net/100000-visitors-per-month/#Designing_a_Content_Strategy
+[7]: http://www.seonick.net/100000-visitors-per-month/#Information_Architecture_with_SEO_in_Mind
+[8]: http://www.seonick.net/100000-visitors-per-month/#Launch_Before_The_Launch
+[9]: http://www.seonick.net/100000-visitors-per-month/#Choosing_a_Platform
+[10]: http://www.seonick.net/100000-visitors-per-month/#Hosting_Evolution
+[11]: http://www.seonick.net/100000-visitors-per-month/#The_End_Result
+[12]: http://www.seonick.net/100000-visitors-per-month/#Great_But_Is_It_Repeatable
+[13]: http://www.seonick.net/100000-visitors-per-month/#Benchmark_And_Grow
+[14]: http://www.seonick.net/100000-visitors-per-month/#Conclusion
+[15]: http://www.seobook.com/business-lessons "Business Lessons From Pumpkin Hackers"
+[16]: http://www.peterdavanzo.com/ "Peter Davanzo - Digital Marketing Consultant"
+[17]: http://www.seonick.net/lead-generation/
+[18]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[19]: http://www.seonick.net/keyword-research/ "Keyword Research for SEO"
+[20]: http://youtu.be/-hxX_Q5CnaA "Jeff Bezos on Customers"
+[21]: http://c2.com/cgi/wiki?DontRepeatYourself "Don't Repeat Yourself"
+[22]: http://www.problogger.net/archives/2012/10/17/build-your-list-before-you-launch-using-launchrock/ "Build Your List Before You Launch, Using Launchrock"
+[23]: http://www.similarweb.com/ "SimilarWeb Web Traffic Tool"
+[24]: http://www.seonick.net/qualified-leads-with-contests/
