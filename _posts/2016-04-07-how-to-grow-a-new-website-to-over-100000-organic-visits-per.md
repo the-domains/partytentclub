@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: by
-datePublished: '2016-04-07T16:59:13.379Z'
-dateModified: '2016-04-07T16:59:08.018Z'
+datePublished: '2016-04-07T18:28:11.171Z'
+dateModified: '2016-04-07T17:20:26.675Z'
 title: 'How To Grow a New Website to Over 100,000 Organic Visits Per Month'
 author: []
 sourcePath: _posts/2016-04-07-how-to-grow-a-new-website-to-over-100000-organic-visits-per.md
@@ -226,6 +226,14 @@ By the end of the 3rd month we were receiving over 100,000 unique visitors, and 
 One of the best ways to get started on your path to increasing your site's organic traffic is to understand how much traffic potential is within your vertical, and to benchmark against it.
 
 Start by looking at the top 5 sites that rank for the big head terms you're targeting, and get a read on their traffic. To do this I like to use[similarweb.com's web traffic tool][23]. It provides a good relative measure of a website's traffic, sources, and some detailed data on where this traffic is coming from -- and best of all, it's free!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8ed8a6-26b1-440d-abea-edc4481a80a8.gif)
+
+### 
+
+### [Top recommended hosting provider][24]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58f0773-dd0b-465a-97fc-e468849f4176.png)
+
+### [Shopify is our choice for ecommerce.][25]
 
 ### Conclusion
 
@@ -237,7 +245,7 @@ With careful planning, an SEO focused content strategy, and an understanding of 
 
 **[Want similar results to happen to your site?Requesta free SEO quote now!][18]**
 
-Following this case study I also wrote about[lead generation][24]using contests.
+Following this case study I also wrote about[lead generation][26]using contests.
 
 Please share your thoughts, feelings, and questions in the comments below.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/291439fe-06d4-49c8-89c9-18ad3b751606.jpg)
@@ -268,4 +276,6 @@ Thanks for reading.
 [21]: http://c2.com/cgi/wiki?DontRepeatYourself "Don't Repeat Yourself"
 [22]: http://www.problogger.net/archives/2012/10/17/build-your-list-before-you-launch-using-launchrock/ "Build Your List Before You Launch, Using Launchrock"
 [23]: http://www.similarweb.com/ "SimilarWeb Web Traffic Tool"
-[24]: http://www.seonick.net/qualified-leads-with-contests/
+[24]: http://partners.hostgator.com/c/247150/177309/3094
+[25]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
+[26]: http://www.seonick.net/qualified-leads-with-contests/
