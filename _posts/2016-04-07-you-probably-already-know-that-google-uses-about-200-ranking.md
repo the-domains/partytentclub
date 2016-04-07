@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: You probably already know that Google uses about 200 ranking factors in their algorithm…
-datePublished: '2016-04-07T05:27:37.385Z'
-dateModified: '2016-04-07T05:22:12.057Z'
+datePublished: '2016-04-07T16:45:48.766Z'
+dateModified: '2016-04-07T16:44:36.446Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
-published: true
 url: you-probably-already-know-that-google-uses-about-200-ranking/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09aac0d3-a61d-48ef-a4b8-4b71b5c4d2e7.jpg)
+
 You probably already know that Google uses about 200 ranking factors in their algorithm...
 
 But what the heck are they?
@@ -106,6 +108,7 @@ In other words, they_do_use domain age...but it's not very important.
 **28\. Keyword Prominence**: Having a keyword appear in the first 100-words of a page's content appears to be a significant relevancy signal.
 
 **29\. Keyword in H2, H3 Tags**: Having your keyword appear as a subheading in H2 or H3 format may be another weak relevancy signal. Moz's panel agrees:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b5a9cb0-bd73-452c-8f58-7405ab8df035.jpg)
 
 **30\. Keyword Word Order:**An exact match of a searcher's keyword in a page's content will generally rank better than the same keyword phrase in a different order. For example: consider a search for: "cat shaving techniques". A page optimized for the phrase "cat shaving techniques" will rank better than a page optimized for "techniques for shaving a cat". This is a good illustration of why[keyword research][15]is really,_really_important.
 
@@ -268,6 +271,7 @@ Which suggests that they_do..._at least in certain cases. Having a certain % of 
 A good example of contextual links are[backlinks from guestographics][44].
 
 **97\. Excessive 301 Redirects to Page:**Links coming from 301 redirects dilute some (or even all) PR, according to a[Webmaster Help Video][45].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/607f1849-4160-40e7-9a4f-bef598bceb02.jpg)
 
 **98\. Backlink Anchor Text**: As noted in[this description][46]of Google's original algorithm:
 
@@ -518,10 +522,12 @@ Although the Google+ authorship program has been[shut down][75], it's likely Goo
 I created a free step-by-step checklist that you can use to quickly apply the most important information from this post to your site.
 
 The checklist contains the 10 most important ranking factors on this list...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee8229f5-6a75-4dad-8317-621ffd190b56.jpg)
 
 ...and super-actionable strategies that you can use to get higher rankings and more traffic.
 
-[Click here to download the free checklist:][0]
+[Click here to download the free checklist:][96]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9462228-3684-4770-a6eb-c1633ccef349.jpg)
 
 [0]: http://www.imxprs.com/free/ritchbits/6-figure-richard-legg-webinar-landing
 [1]: https://my.leadpages.net/leadbox/1417f0b73f72a2%3A15d502426b46dc/5745865499082752/ "Ranking Factors Checklist"
@@ -619,3 +625,4 @@ The checklist contains the 10 most important ranking factors on this list...
 [93]: http://en.wikipedia.org/wiki/Sandbox_effect "Google Sandbox"
 [94]: http://www.seobythesea.com/2012/08/google-rank-modifying-spammers-patent/ "Rank Modifying Spammers Patent"
 [95]: http://dejanseo.com.au/temporary-link-schemes/
+[96]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
