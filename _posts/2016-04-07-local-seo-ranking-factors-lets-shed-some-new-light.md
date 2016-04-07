@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-07T21:31:02.048Z'
-dateModified: '2016-04-07T20:38:57.389Z'
+datePublished: '2016-04-07T21:32:09.743Z'
+dateModified: '2016-04-07T21:31:11.023Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
 sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
