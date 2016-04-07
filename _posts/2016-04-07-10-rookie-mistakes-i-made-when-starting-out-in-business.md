@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'In this post you’re going to learn:'
-datePublished: '2016-04-07T18:40:33.911Z'
-dateModified: '2016-04-07T18:19:50.352Z'
+datePublished: '2016-04-07T21:30:36.836Z'
+dateModified: '2016-04-07T20:24:48.014Z'
 title: 10 ROOKIE MISTAKES I SEE MOST PEOPLE MAKING WHEN STARTING A BUSINESS
 author: []
 sourcePath: _posts/2016-04-07-10-rookie-mistakes-i-made-when-starting-out-in-business.md
@@ -187,7 +187,7 @@ I remember the days of sending tons of emails to people I outsourced to, lots of
 3. Split up the work between workers. If you offer web design, split the project up with 3 workers. 1 working on graphics, another working on css modifications and forms, and another working on grunt work like adding content, menu items, etc. This way your workers are used to specific tasks and it maximizes productivity. Outsourcing the entire project to one person is less efficient and leaves you with higher risk.
 
 ### MISTAKE 8: LACK OF FOLLOWUP WITH EXISTING CLIENTS AND LEADS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b6cbb0-00b1-4b04-9744-a144b6eccff2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/36c8aa9c5eb4992cc836f7c3c30b25607563272e.jpg)
 
 Another mistake made that seems like a no brainer.
 
@@ -262,10 +262,10 @@ The purpose... is growth and profit and providing a better return on your time i
 Mistakes are common in business and there are many more mistakes you can make than what is listed here but these 10 common mistakes are something you can avoid.
 
 You should now know what to look for and know how to adjust to avoid these mistakes and come out ahead.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24b6206-2433-45a9-ba06-dee636deb04d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b62c1de36f829ff3cd039b23bf15f423210484.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea21469d-7075-43ab-b554-5feb5720028f.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ebea24bc7e5540a2713483524fcd0e1fb6cb499.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
 
