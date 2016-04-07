@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'So I used to be a pretty heavy smoker, stress does that to you but I also enjoyed it. I quit a few different times and always went back to smoking until I started vaping. If you’re someone that has switched to vaping, you probably spend a little bit of time at your local vape shop, checking out new equipment, trying different juice flavors, and just hanging out.'
-datePublished: '2016-04-07T18:39:22.999Z'
-dateModified: '2016-04-07T18:00:03.223Z'
+datePublished: '2016-04-07T21:29:56.317Z'
+dateModified: '2016-04-07T20:21:46.974Z'
 title: HOW A VAPE STORE DOUBLED THEIR SALES WITH THESE 3 SIMPLE THINGS
 author: []
 sourcePath: _posts/2016-04-07-how-a-vape-store-doubled-their-sales-with-these-3-simple-thi.md
@@ -25,7 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce5ae265-54b8-4592-ad9c-f5204bee51da.jpg)
 
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/797f15f3-84ad-4846-98b2-ed6eb59a8cf1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/229b39c33439411e7c351599a15a8f26f1ce916d.png)
 
 So I used to be a pretty heavy smoker, stress does that to you but I also enjoyed it. I quit a few different times and always went back to smoking until I started vaping. If you're someone that has switched to vaping, you probably spend a little bit of time at your local vape shop, checking out new equipment, trying different juice flavors, and just hanging out.
 
@@ -267,7 +267,7 @@ You also need to be willing to look for easy opportunities. Why is it that marke
 You also have to be creative... I knew local search was a great way to get more visibility, and I was able to accomplish that without even having a website! How many opportunities are you missing in low competition areas because you don't want to do local SEO for someone that doesn't have a website?
 
 **[Get the number 1 recommended website hosting and builder on the planet. Period!][2]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fce997ac-e80e-4a79-b073-b2f7d9eaf97a.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a95fd90caf710d94dfff65dda870ef524fa1ac0f.gif)
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
