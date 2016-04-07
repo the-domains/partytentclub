@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Okay, that might be a bit harsh… maybe SEO isn’t dead, but things have changed and you need to look beyond SEO to drive traffic to your website.'
-datePublished: '2016-04-07T16:55:59.451Z'
-dateModified: '2016-04-07T16:55:20.042Z'
+datePublished: '2016-04-07T18:27:59.384Z'
+dateModified: '2016-04-07T17:12:29.463Z'
 title: 43 Ways to Drive more Traffic to a New Website Through Growth Hacking
 author: []
 sourcePath: _posts/2016-04-07-43-ways-to-drive-more-traffic-to-a-new-website-through-growt.md
@@ -241,6 +241,12 @@ Craig Ballantyne
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c080738-1bca-4265-9448-69eb9ea884c1.jpg)
 
 "Opportunity is missed by most people because it is dressed in overalls and looks like work." -- Thomas Alva Edison
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4cdff2a-037d-4de1-8a4a-0debf85d0256.gif)
+
+[Top recommended hosting provider][6]
+
+[Shopify is simply the best for creating an online store.][7]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b26759ee-0d62-4bbc-9fff-d373de53bd7b.jpg)
 
 [0]: http://andrewchen.co/2012/04/27/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/
 [1]: http://www.hittail.com/
@@ -248,3 +254,5 @@ Craig Ballantyne
 [3]: https://s3.amazonaws.com/16v/growth-hacking-get-more-traffic-marketing.pdf
 [4]: https://clarity.fm/lincolnmurphy
 [5]: mailto:lincoln.murphy@sixteenventures.com
+[6]: http://partners.hostgator.com/c/247150/177309/3094
+[7]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
