@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-07T18:27:49.151Z'
-dateModified: '2016-04-07T18:21:36.220Z'
+datePublished: '2016-04-07T21:31:02.048Z'
+dateModified: '2016-04-07T20:38:57.389Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
 sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab69d06b-c73f-4969-b6b5-63982d4379e6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c225c48e2bd063c9a96d5138d9b8555eb7e0f0bd.png)
 
 Every year the power house in the industry releases a survey of "professionals" in the local SEO arena. I'm sure most of you have heard of Moz.com and their [Local SEO Ranking Factors survey ][1]that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
 
@@ -40,6 +40,7 @@ Their yearly survey gets a lot of attention. People think that it includes infor
 One problem though... it isn't.
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b08c953-9164-4e9f-94c9-d51fbb493d85.jpg)
 
 ARE MOZ'S LOCAL SEO RANKING FACTORS MISLEADING YOU!
 
@@ -86,6 +87,7 @@ Collectives do not think creatively or honestly.  Their only concern is the surv
 ****
 
 Now I won't say that Moz or the contributors to this survey want to build a foundation of lies. I think Moz is an excellent source for news and opinions on SEO but you can't judge or base a strategy on what people say in their round up/survey.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc11c00c-3e33-4102-867d-483e03f67ec5.jpg)
 
 ****
 
@@ -145,17 +147,11 @@ I'll spare you some time by not going over the top 50 local/snack pack factors. 
 
 ****
 
-Enter your email to receive more awesome content straight to your inbox!
-
-Email: 
-
-Submit
+[Enter your email to receive more awesome content straight to your inbox!][2]
 
 Example 2: Top Difference Making Factors
 
 ****
-
-difference-maker-local-seo
 
 ****
 
@@ -199,8 +195,6 @@ Example 3: What to Focus on More and Less since the Snack
 
 ****
 
-snack-pack-roll-out
-
 ****
 
 The reason I find this to be so ridiculous is the fact that the local algorithm never changed. The snack pack roll out reducing the GMB listings to 3, has nothing to do with a shift in the algorithm. It is only a user experience change and has absolutely nothing to do with rankings.
@@ -214,8 +208,9 @@ To put it simply... If your strategy worked in the first place, you wouldn't nee
 For those of you actually doing SEO for clients, I hope you are using your own experience and analyzing what works and what doesn't instead of using these surveys as a guideline. Chances are if you have experience, you will NOT follow what is being exhibited in this round up.
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b98fe29c-0790-4049-9556-96d5d505eca5.jpg)
 
-WHAT ELSE?
+## WHAT ELSE?
 
 ****
 
@@ -288,7 +283,7 @@ I didn't post this because of any problems with Moz, I wanted to publish this be
 ****
 
 [Sometimes if you want the best results possible, you have to ignore the majority consensus and create your own path based on reason and data available from your own experience and experiments!][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f7c2e86-47a4-4426-a48b-d1f470a405af.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30fedca2ea0977227deaa52d45b9f85bd3594871.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][3]
 
