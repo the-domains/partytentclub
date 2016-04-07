@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Many of you know that I’m not a fan of gurus or even the people that have come highly regarded in the industry of marketing, SEO, sales, etc. I’m just not a believer in a lot of them.'
-datePublished: '2016-04-07T18:39:06.360Z'
-dateModified: '2016-04-07T18:38:56.095Z'
+datePublished: '2016-04-07T21:29:26.058Z'
+dateModified: '2016-04-07T20:13:31.940Z'
 title: Gary V Interview.
 author: []
 sourcePath: _posts/2016-04-07-many-of-you-know-that-im-not-a-fan-of-gurus-or-even-the-peo.md
@@ -22,9 +22,11 @@ url: many-of-you-know-that-im-not-a-fan-of-gurus-or-even-the-peo/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d31e215-bb25-44f2-8bdd-86c8608a65e6.jpg)
+
 [Shopify is the best choice for ecommerce sites based on comparison reviews. 
 ][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa2d959b-aab4-4e53-836e-1ccaeb764b93.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9753f4f129b0b238a2735979fcc0df186591e206.jpg)
 
 Many of you know that I'm not a fan of gurus or even the people that have come highly regarded in the industry of marketing, SEO, sales, etc. I'm just not a believer in a lot of them.
 
@@ -34,7 +36,7 @@ This interview, I've found useful for myself, and also think many of you will en
 
 <iframe width="600" height="340" src="https://www.youtube.com/embed/lsqaqRBTj_s" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4557d32a-dc97-4218-a263-5733f25ad614.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f49ef38f6cdd67722e211ba4e0f832155e91837.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
 
