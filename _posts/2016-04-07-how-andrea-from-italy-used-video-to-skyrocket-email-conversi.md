@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is one of the most important thing while talking about generating clients for your business?
-datePublished: '2016-04-07T18:54:50.882Z'
-dateModified: '2016-04-07T18:54:41.177Z'
+datePublished: '2016-04-07T21:36:15.227Z'
+dateModified: '2016-04-07T21:12:40.462Z'
 title: HOW ANDREA FROM ITALY USED VIDEO TO SKYROCKET EMAIL CONVERSIONS
 author: []
 sourcePath: _posts/2016-04-07-how-andrea-from-italy-used-video-to-skyrocket-email-conversi.md
@@ -119,7 +119,7 @@ While making the video remember that the business owner probably don't know any 
 
 HOW I USED VIDEOS TO GENERATE LEADS
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/s75D4yQ_7-A" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/s75D4yQ_7-A" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
 ****
 
@@ -265,8 +265,7 @@ Simple. I split it in pieces and attached screenshots and short pieces of videos
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd732d76-73fc-4605-9490-97eb32723267.jpg)
 
-**  
-**
+****
 
 1 -- In this part you don't have to do anything other than repeat the same introduction for all your leads. You can just keep the same camera and voice recording for all your videos while having as background screen the screenshots of their email answer (they will never notice it's a screenshot and not you recording your screen).
 
