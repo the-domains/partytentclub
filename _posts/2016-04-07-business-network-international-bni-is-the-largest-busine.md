@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Business Network International – BNI – is the largest business referral group in the world\_according to the BNI website"
-datePublished: '2016-04-07T19:33:12.211Z'
-dateModified: '2016-04-07T19:33:09.271Z'
+datePublished: '2016-04-07T21:37:00.114Z'
+dateModified: '2016-04-07T21:13:55.382Z'
 title: How to use BNI meetups to find clients
 author: []
 sourcePath: _posts/2016-04-07-business-network-international-bni-is-the-largest-busine.md
@@ -22,10 +22,10 @@ url: business-network-international-bni-is-the-largest-busine/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a67ea24-7b0e-473d-ad47-ac7e0ce20586.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a9b994e07fdeff686f94af8c34808a9a77b411d.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90adb706-ec74-4c01-a958-9c03ffa301f2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d3a4de357d0e0b9c9214e355aea1f48628f5b89.jpg)
 
 Business Network International -- BNI -- is the largest business referral group in the world [according to the BNI website][1]
 
@@ -34,7 +34,7 @@ Business Network International -- BNI -- is the largest business referral group 
 9.3 billion in closed business in 1 year...  And yes -- there's probably one in your area!
 
 My name is MJ and I own a digital online marketing agency specializing in Web design, SEO and PPC management for small local service businesses. I'm a member of BNI.  Nathan of Income Bully is my coach and BNI is a strategy we discussed as part of my marketing plan (even though he wasn't a big believer!)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1d63d07-8a1b-4d68-b385-76115a8d5f41.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49a5bf66a0f723e478a539c8889b09c01c6d81a6.jpg)
 
 ## EXACTLY WHAT IS BNI?
 
@@ -223,7 +223,7 @@ You already know 'way' more than the average business owner -- You already have 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/035a4844-b29f-41e5-91fc-4d5b402a60e8.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][5]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58694b45-9d7c-455c-8d06-1405f0de69c8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff9876c93a18b4914a8ef2ed4202695181823d1.jpg)
 
 [0]: http://partners.hostgator.com/c/247150/177309/3094
 [1]: http://bni.com/
