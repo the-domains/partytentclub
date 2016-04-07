@@ -8,8 +8,8 @@ keywords: []
 description: |-
 
   Shopify is the best choice for ecommerce sites based on comparison reviews.
-datePublished: '2016-04-07T18:48:54.493Z'
-dateModified: '2016-04-07T18:48:41.096Z'
+datePublished: '2016-04-07T21:38:43.088Z'
+dateModified: '2016-04-07T21:10:11.737Z'
 title: "20 WAYS TO BRING IN MORE LEADS AND SALES'"
 author: []
 sourcePath: _posts/2016-04-07-20-ways-to-generate-leads-sales-and-clients-without-cold-ca.md
@@ -307,11 +307,12 @@ Sitting there and thinking about the one area you struggle with, isn't an effect
 
 There's plenty of ways to generate sales. It's up to you to decide whether you're going to put it into action.
 
-[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c6a084-0107-4274-99f3-7d83c5e91b34.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74b9cb2c-6d1c-44b5-b491-218f8979a9f4.gif)
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][1]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c93e139dd32acf75ac1ee92a3a7a066235e8615.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/694ec9d6bd2a676dac9e9f8caed162d194e7d88c.gif)
 
-[See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][1]
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][2]
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
-[1]: http://partners.hostgator.com/c/247150/177309/3094
+[1]: Shopify%20is%20the%20best%20choice%20for%20ecommerce%20sites%20based%20on%20comparison%20reviews.
+[2]: http://partners.hostgator.com/c/247150/177309/3094
