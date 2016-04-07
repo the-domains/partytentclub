@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everyone knows to build listings or citations on big sites like Yelp, Manta, YP, FourSquare, and others.'
-datePublished: '2016-04-07T19:23:26.563Z'
-dateModified: '2016-04-07T19:23:13.176Z'
+datePublished: '2016-04-07T21:37:18.121Z'
+dateModified: '2016-04-07T21:19:21.645Z'
 title: 6 BEST KEPT SEO SECRETS TO BOOST YOUR LOCAL RANKINGS
 author: []
 sourcePath: _posts/2016-04-07-a-few-years-ago-building-citations-was-the-most-commonly-ta.md
@@ -29,6 +29,7 @@ A few years ago, building citations was the most commonly talked about area of l
 Everyone knows to build listings or citations on big sites like Yelp, Manta, YP, FourSquare, and others.
 
 The problem is... everybody knows that. Your competition knows it, local businesses know it, everyone already knows!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22f912e9-d055-4c72-a7e7-20c6da2350d9.jpg)
 
 **In this post, you're going to learn:**
 
@@ -44,11 +45,10 @@ Not sure what citations are? Might want to [check this guide first.][0]
 ## LOCAL SEO TRICKS TO SUPERCHARGE YOUR RANKINGS
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices.][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e74322f9-93ee-4097-8678-7ba481e195d2.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a89cf840efe82377d55f32d2356f7fc1e4e72d.gif)
 
 One of the first things people tend to do is analyze the competition against the client and look at citation opportunities.
-
-undefined
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8666ef2f-6a0b-469b-b01e-eed2d0e99595.jpg)
 
 That may work in less competitive areas, but when you're wanting to compete in very competitive industries in cities with large population, you need more than the top 50\. In fact, you'll see many that are ranking with HUNDREDS of citations.Usually they'll look at and claim the top 50 citation sources, and probably call it a day.
 
@@ -61,6 +61,7 @@ You need something that can work better, and faster.
 These 6 things I'm going to discuss, will help you get better results.
 
 ## USING YOUTUBE AS A CITATION SOURCE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb1c0c3c-c70d-4ba1-89cf-93f2a75c46a6.jpg)
 
 I've discussed this before, but when I analyze different SERPs I still see very few people utilizing Youtube.
 
@@ -180,7 +181,7 @@ Most businesses have citations from a FB page, but that's usually the extent of 
 Maybe it'll make your citations and partial citations stronger, but it also strengthens the property for branded searches which can assist in proactive reputation management. Bottom line, there's no reason not to do this.
 
 **[Never miss an opportunity to grow your knowledge and skill set, join over 1,000 other people making money using this information by entering your email here][0]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b47d0262-6434-4434-919f-adadf0742ca9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b9ebed62fe7d3870c2b431400cc9710ce4ee7b.jpg)
 
 ## THE POWER OF THE PRESS RELEASE
 
@@ -247,6 +248,7 @@ Use About.Me or your Google+ Profile so you can link to that citynews.com profil
 This is particularly useful in higher competition areas, or to get a bump from the B spot to the A spot.
 
 ## THE BEST KEPT SECRET FOR PARTIAL CITATIONS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b28ded83-11eb-447a-95ca-9162773832c6.jpg)
 
 One of my favorites, that nobody ever talks about or uses for that matter.
 
@@ -267,7 +269,7 @@ SEO is always changing, new trends pop up all the time, then die. New algorithms
 The thing I like about Local SEO, is that the more things change, the more they actually stay the same. No matter what update comes out, Google wants to see relevance. Machine learning is going to play a large role in search in the future, and the more relevant you can become to the location, and industry, the better.
 
 You may think Google can't understand the links between some of the things I mentioned, but they certainly can. Try it out for yourself, the rankings will speak for themselves.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/346e5c2a-227f-4db7-a589-ef04755890ac.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c619c2c0afcc6d123c7b4770baa38fedf154fb3.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][5]
 
