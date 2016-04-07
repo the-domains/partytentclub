@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'So I used to be a pretty heavy smoker, stress does that to you but I also enjoyed it. I quit a few different times and always went back to smoking until I started vaping. If you’re someone that has switched to vaping, you probably spend a little bit of time at your local vape shop, checking out new equipment, trying different juice flavors, and just hanging out.'
-datePublished: '2016-04-07T03:28:16.773Z'
-dateModified: '2016-04-07T03:27:11.775Z'
+datePublished: '2016-04-07T18:39:22.999Z'
+dateModified: '2016-04-07T18:00:03.223Z'
 title: HOW A VAPE STORE DOUBLED THEIR SALES WITH THESE 3 SIMPLE THINGS
 author: []
+sourcePath: _posts/2016-04-07-how-a-vape-store-doubled-their-sales-with-these-3-simple-thi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-how-a-vape-store-doubled-their-sales-with-these-3-simple-thi.md
-published: true
 url: how-a-vape-store-doubled-their-sales-with-these-3-simple-thi/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce5ae265-54b8-4592-ad9c-f5204bee51da.jpg)
+
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/797f15f3-84ad-4846-98b2-ed6eb59a8cf1.png)
 
@@ -70,6 +72,7 @@ So let's get started.
 ****
 
 \#1 -- IMPLEMENTING A CUSTOMER RETENTION PROGRAM
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f30f3a2-a921-4208-81af-e2a2ccfbdc89.jpg)
 
 ****
 
@@ -114,6 +117,7 @@ A small time investment, very minimal financial investment, without even trying 
 ****
 
 \#2 -- BEING VISIBLE ONLINE, AND IN SEARCH
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a63d3e6-6b87-469f-9041-e1ecd5cb1368.jpg)
 
 ****
 
@@ -162,6 +166,7 @@ Very basic stuff right? Just the online work that was performed results in an ad
 ****
 
 \#3 -- IMPLEMENTING A REWARDS APP TO PIGGYBACK OFF COMPETITORS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f689f1d5-8579-4dee-99bc-fd62ccddc6db.jpg)
 
 ****
 
@@ -196,6 +201,7 @@ Their main competitor has been using this, and has been pretty successful with i
 After thinking about this, I came to the conclusion you don't really have to be implementing other forms of marketing to compete, the owner of that store chases people off and it's only a matter of time until my vape shop(not mine but you know what I mean) takes more market share. So the thought was why not get "Belly" so we show up to their entire customer base whenever they open their belly app at the competitor?
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75d4dbc0-62c5-4917-bb77-569399029ccd.jpg)
 
 This may seem a little weird and maybe ineffective since there already is an "offline" reward system, but why not also implement an app based reward system while also diluting the main competitor's efforts, and piggy back on their own marketing?
 
@@ -246,10 +252,11 @@ The last thing talked about was the "Belly App" and using it not to be innovativ
 ****
 
 THE BOTTOM LINE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/392f0132-0a5d-4a03-b88f-dbba7fc61cb1.jpg)
 
 ****
 
-If you're a consultant or trying to get started in marketing, web design or SEO you have to realize and be confident of your ability to make a difference to a business. It's often times the work you do that can allow a business to hire an additional employee(s), increase their profit, market share, and really make a difference in their life.
+If you're a consultant or trying to get started in mark**e**ting, web design or SEO you have to realize and be confident of your ability to make a difference to a business. It's often times the work you do that can allow a business to hire an additional employee(s), increase their profit, market share, and really make a difference in their life.
 
 ****
 
@@ -264,4 +271,4 @@ You also have to be creative... I knew local search was a great way to get more 
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
-[2]: http://partners.hostgator.com/c/247150/177309/3094
+[2]: My%20recommended%20hosting%20provider.%20I%20have%20found%20hostgator%20to%20have%20the%20highest%20quality%20hosting%20for%20the%20best%20prices.
