@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It’s 2016… Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, “old school” methods.'
-datePublished: '2016-04-07T18:46:16.785Z'
-dateModified: '2016-04-07T18:46:09.405Z'
+datePublished: '2016-04-07T21:37:49.220Z'
+dateModified: '2016-04-07T21:37:48.437Z'
 title: 8 COLD CALLING TIPS FOR 2016
 author: []
 sourcePath: _posts/2016-04-07-8-cold-calling-tips-for-2016.md
@@ -25,7 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fecb0bb3-c7aa-4fa5-ac52-484f4d49b925.jpg)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d57a061-d26b-411d-9233-8d144a28407a.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd5f26c2870e2afccb3377018dfbddcda6b10584.gif)
 
 It's 2016... Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, "old school" methods.
 
@@ -60,7 +60,7 @@ Yeah, you can use a phone book, you can also just Google different businesses an
 
 ****
 
-I've been recommendingMobile Renegadefor a long time, that automatically scrapes data with the Yellow Pages and YellowBook, plus there's additional plugins to scrape other sources (you can see it in action here). However, it isn't necessary you use that software, there's countless different pieces of software that can essentially do the same thing with other sources. You can also use a lead service like InfoFree or have a VA scrape for you.
+I've been recommending Mobile Renegade for a long time, that automatically scrapes data with the Yellow Pages and YellowBook, plus there's additional plugins to scrape other sources (you can see it in action here). However, it isn't necessary you use that software, there's countless different pieces of software that can essentially do the same thing with other sources. You can also use a lead service like InfoFree or have a VA scrape for you.
 
 ****
 
@@ -69,7 +69,7 @@ The point is, you want the data to be available with a few clicks. You don't wan
 ****
 
 2.) THROW OUT THE SCRIPT AND BE AUTHENTIC!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f459aa-8bb6-4fc6-9532-c0d4ce352532.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad581e13dc2e0d43dd2090723ba2f866125ce8f2.jpg)
 
 ****
 
@@ -309,7 +309,7 @@ Smart diversification is always necessary when running a business, but it isn't 
 FINAL THOUGHTS
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/694e99e3-01f6-472c-89da-4413c3c500a0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58b15082dc9fad3dfcaed889935a1be6a7f76b14.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][2]
 
