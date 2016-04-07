@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'So you forum addicts, next time this issue comes up and you’re debating whether it’s effective or not all you have to do is share this post and you instantly win the argument. That’s a fact'
-datePublished: '2016-04-07T18:40:19.276Z'
-dateModified: '2016-04-07T18:40:09.938Z'
+datePublished: '2016-04-07T21:30:09.964Z'
+dateModified: '2016-04-07T21:11:17.395Z'
 title: 'COLD CALLING: HYPED UP MARKETING TACTIC OR WHAT?'
 author: []
 sourcePath: _posts/2016-04-07-cold-calling-and-telemarketing-are-topics-that-seem-to-be-an.md
@@ -182,10 +182,10 @@ There are many situations where cold calling is an ideal choice to grow somethin
 Is it right for you? Hopefully this helps you decide!
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][4]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d742f759-27fe-42a8-8e89-a2e763ebb8e0.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d9ba38e910e8cc04a72c96a81937a3a1e72bdce.gif)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][5]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/854058b5-ef0f-43ec-924a-98c83e7add8a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5817dd414ac2b176c25ed5db8c95609aa9f60b49.jpg)
 
 _**They are both a match made in heaven.**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0dbdd93-8f3d-4a13-a384-aadee803fa8d.jpg)
