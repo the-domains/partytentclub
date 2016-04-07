@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: by
-datePublished: '2016-04-07T18:28:11.171Z'
-dateModified: '2016-04-07T17:20:26.675Z'
+datePublished: '2016-04-07T19:43:59.783Z'
+dateModified: '2016-04-07T19:43:19.818Z'
 title: 'How To Grow a New Website to Over 100,000 Organic Visits Per Month'
 author: []
 sourcePath: _posts/2016-04-07-how-to-grow-a-new-website-to-over-100000-organic-visits-per.md
@@ -226,11 +226,9 @@ By the end of the 3rd month we were receiving over 100,000 unique visitors, and 
 One of the best ways to get started on your path to increasing your site's organic traffic is to understand how much traffic potential is within your vertical, and to benchmark against it.
 
 Start by looking at the top 5 sites that rank for the big head terms you're targeting, and get a read on their traffic. To do this I like to use[similarweb.com's web traffic tool][23]. It provides a good relative measure of a website's traffic, sources, and some detailed data on where this traffic is coming from -- and best of all, it's free!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab8ed8a6-26b1-440d-abea-edc4481a80a8.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b4fda3005562f8a49f0128431cbec5f6fdedb5d.gif)
 
-### 
-
-### [Top recommended hosting provider][24]
+### [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][24]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58f0773-dd0b-465a-97fc-e468849f4176.png)
 
 ### [Shopify is our choice for ecommerce.][25]
