@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: You probably already know that Google uses about 200 ranking factors in their algorithm…
-datePublished: '2016-04-07T16:45:48.766Z'
-dateModified: '2016-04-07T16:44:36.446Z'
-title: ''
+datePublished: '2016-04-07T16:58:10.992Z'
+dateModified: '2016-04-07T16:58:04.722Z'
+title: The 200 ranking factors Google uses in their algorithim
 author: []
 sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
 published: true
@@ -516,13 +516,13 @@ Although the Google+ authorship program has been[shut down][75], it's likely Goo
 **204\. Reconsideration Request**: A successful reconsideration request can lift a penalty.
 
 **205\. Temporary Link Schemes:**Google has (apparently) caught onto people that create --- and quickly remove --- spammy links. Also know as a[temporary link scheme][95].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee8229f5-6a75-4dad-8317-621ffd190b56.jpg)
 
 ## **"How Can I Use This Information For My Site?"**
 
 I created a free step-by-step checklist that you can use to quickly apply the most important information from this post to your site.
 
 The checklist contains the 10 most important ranking factors on this list...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee8229f5-6a75-4dad-8317-621ffd190b56.jpg)
 
 ...and super-actionable strategies that you can use to get higher rankings and more traffic.
 
