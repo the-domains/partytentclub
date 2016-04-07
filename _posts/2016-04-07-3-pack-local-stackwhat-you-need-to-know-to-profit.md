@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'For consultants, freelancers and business owners, if you use Google as a way to bring in leads for your business in the form of SEO you already know that the landscape changes and will continue to change. You deal with major algorithm changes, shifts in local user experience, even the changing of names i.e. Google Places, Google+ Local and now Google My Business.'
-datePublished: '2016-04-07T18:28:50.668Z'
-dateModified: '2016-04-07T17:56:09.851Z'
+datePublished: '2016-04-07T18:29:56.842Z'
+dateModified: '2016-04-07T18:29:35.260Z'
 title: 'What YOU Need To Know To Profit From The Google 3 Pack!'
 author: []
 sourcePath: _posts/2016-04-07-3-pack-local-stackwhat-you-need-to-know-to-profit.md
