@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'For consultants, freelancers and business owners, if you use Google as a way to bring in leads for your business in the form of SEO you already know that the landscape changes and will continue to change. You deal with major algorithm changes, shifts in local user experience, even the changing of names i.e. Google Places, Google+ Local and now Google My Business.'
-datePublished: '2016-04-07T18:29:56.842Z'
-dateModified: '2016-04-07T18:29:35.260Z'
+datePublished: '2016-04-07T21:29:43.212Z'
+dateModified: '2016-04-07T20:17:30.108Z'
 title: 'What YOU Need To Know To Profit From The Google 3 Pack!'
 author: []
 sourcePath: _posts/2016-04-07-3-pack-local-stackwhat-you-need-to-know-to-profit.md
@@ -22,14 +22,14 @@ url: 3-pack-local-stackwhat-you-need-to-know-to-profit/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98a7590d-2ee3-45f4-8423-3be4beb31602.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/55b20650549af984aa6a9ee84cd428c61306cf10.jpg)
 
 # What YOU Need To Know To Profit From The Google 3 Pack!
 
 First. If you are planning on running an ecommerce site. Use shopify.
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c45dd3-35b5-4260-96b7-59834601f60b.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6ffbe29947a511dc4b5fdf4469522587366c221.png)
 
 For consultants, freelancers and business owners, if you use Google as a way to bring in leads for your business in the form of SEO you already know that the landscape changes and will continue to change. You deal with major algorithm changes, shifts in local user experience, even the changing of names i.e. Google Places, Google+ Local and now Google My Business.
 
@@ -201,7 +201,7 @@ Which are you? Let me know in the comments below!
 Are you having trouble generating leads and getting clients for your web design or SEO company? [My Ultimate Blueprint to Start Your Own Web Agency ][1]covers absolutely everything you need to know from startup phase to generating client FOR FREE. With the amount of client acquisition techniques covered inside, you are sure to find one that meets your needs and personality. Stop struggling, start succeeding, [get it here!!][1]
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cf9e68b-0128-4aae-a80d-a033dc4a5367.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b030a23126c2851ae6aa86029e5ff39770361ee1.gif)
 
 ****
 
