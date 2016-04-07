@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-07T21:32:09.743Z'
-dateModified: '2016-04-07T21:31:11.023Z'
+datePublished: '2016-04-07T22:30:55.252Z'
+dateModified: '2016-04-07T22:30:39.167Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
 sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
@@ -38,9 +38,9 @@ Their yearly survey gets a lot of attention. People think that it includes infor
 ****
 
 One problem though... it isn't.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9401f59-9092-4a2b-92cb-48b41ee7883c.jpg)
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b08c953-9164-4e9f-94c9-d51fbb493d85.jpg)
 
 ARE MOZ'S LOCAL SEO RANKING FACTORS MISLEADING YOU!
 
