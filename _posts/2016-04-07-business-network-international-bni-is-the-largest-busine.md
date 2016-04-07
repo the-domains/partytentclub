@@ -1,28 +1,33 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Business Network International – BNI – is the largest business referral group in the worldaccording to the BNI website
-datePublished: '2016-04-07T03:44:14.920Z'
-dateModified: '2016-04-06T23:45:34.112Z'
-title: ''
+description: "Business Network International – BNI – is the largest business referral group in the world\_according to the BNI website"
+datePublished: '2016-04-07T19:33:12.211Z'
+dateModified: '2016-04-07T19:33:09.271Z'
+title: How to use BNI meetups to find clients
 author: []
+sourcePath: _posts/2016-04-07-business-network-international-bni-is-the-largest-busine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-business-network-international-bni-is-the-largest-busine.md
-published: true
 url: business-network-international-bni-is-the-largest-busine/index.html
 _type: Article
 
 ---
-Business Network International -- BNI -- is the largest business referral group in the world [according to the BNI website][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a67ea24-7b0e-473d-ad47-ac7e0ce20586.gif)
+
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90adb706-ec74-4c01-a958-9c03ffa301f2.jpg)
+
+Business Network International -- BNI -- is the largest business referral group in the world [according to the BNI website][1]
 
 > _"With over 190,000 members in 7,300 plus chapters worldwide, BNI is the largest business networking organization in the world. In 2015 alone, BNI members generated millions of referrals resulting in over $9.3 billion in closed business worldwide."_
 
@@ -33,7 +38,7 @@ My name is MJ and I own a digital online marketing agency specializing in Web de
 
 ## EXACTLY WHAT IS BNI?
 
-BNI is a networking group of professionals looking for more business through referral[s][1] and relationship building between its members.  They only allow 1 professional per business category -- 1 lawyer -- 1 insurance agent -- 1 marketing specialist etc.
+BNI is a networking group of professionals looking for more business through referral[s][2] and relationship building between its members.  They only allow 1 professional per business category -- 1 lawyer -- 1 insurance agent -- 1 marketing specialist etc.
 
 My BNI group of 42 professionals meets every Thursday morning for breakfast at 6.30am until 8.30am.  The meetings have a set schedule.  An introduction and the goals of BNI, the presidents report, then each member gets a 60 second spotlight pitch all about your company and services.  Each week one member will deliver a 10-minute presentation to the group all about their business.  The last thing we do each meeting is tally up the referrals we have given and received and thank those people for closed business.
 
@@ -62,8 +67,9 @@ BNI is a great way to get clients in my experience.  You get the chance to posit
 LOOK: all you guys associated with Nathan and Income Bully know your stuff -- I read your posts on the Skype mastermind group -- you just need more exposure to those people most likely to hire you -- as well as at the fee schedule you want to charge...
 
 ## YOU MUST UNDERSTAND -- IT'S ALL ABOUT TRUST AND AUTHORITY...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/494b700d-f910-45ea-b767-42652d70ea30.jpg)
 
-I'm going to outline step by step two of my [strategies to maximize the potential][2] of BNI membership for getting new prospects to do business with you.  Even if you only just joined and haven't yet become 'trusted' by the group, even if no one knows you and even if you are not a good networker...
+I'm going to outline step by step two of my [strategies to maximize the potential][3] of BNI membership for getting new prospects to do business with you.  Even if you only just joined and haven't yet become 'trusted' by the group, even if no one knows you and even if you are not a good networker...
 
 My BNI chapter has 42 members; we are one of the biggest groups in our area.  Therefore it's almost impossible to meet, refer and be friends with everyone from the group when you initially join.  Nobody see's you as an authority or even trust you yet -- So here's what I did...
 
@@ -79,11 +85,13 @@ Strategy 2....
 
 ## I DO NOT DO FREE CONSULTS... I DO_WORKSHOPS_
 
+__
+
 People LOVE to go to workshops -- but they don't show up nearly as well for a lecture or a pitch!
 
 When I became a BNI member I decided that I wanted to do something cool, useful and profitable to get maximum exposure to my BNI group. These workshop classes I run for small, invite only, groups of BNI members or people referred to me by a circle of influence friend...
 
-6-8 people max... I help them and we actually do a lot of work...they see the value and how good I am -- I have gotten lots of business from doing this... As we work, I get to chat about PPC and SEO, and the [VALUE of rankings and a website that converts well][2].
+6-8 people max... I help them and we actually do a lot of work...they see the value and how good I am -- I have gotten lots of business from doing this... As we work, I get to chat about PPC and SEO, and the [VALUE of rankings and a website that converts well.][4]
 
 So right now you are saying to yourself -- "but I don't have a conference room" -- right?
 
@@ -135,7 +143,7 @@ I don't want to work my ass off for no money -- grinding out endless hours in fr
 
 **BNI MEMBERSHIP PRICES**-- it's not expensive -- there's a joining fee of about $140 and a yearly dues of $450 or so depending on the chapter...but consider this -- Thursday morning I'm having a 1 1/2hr breakfast with 42 professionals.  I made my money back 10X within 2 weeks of being a member -- Heck -- I made $1200 before they even made me a member!  So I paid the $590 to join -- it's worth it just to try -- but the more you put into the system the more you get out of it.
 
-**Never miss an opportunity to grow your knowledge and skill set, join over 1,000 other people making money using this information by entering your email below**
+**[Never miss an opportunity to grow your knowledge and skill set, join over 1,000 other people making money using this information by entering your email here][4]**
 
 ## A WORD OF WARNING
 
@@ -155,7 +163,7 @@ You just need to keep your ear to the ground for referral opportunities -- they 
 
 ## THE NEXT STEPS
 
-Visit a few groups, choose one -- instead of looking for certain people, look at their industries, the computer repair shop guy, the computer tech, business coaches, business lawyers -- these are a[goldmine for our web design and SEO business][3]...AND you are a goldmine referrer for them too -- we have the same clients but we are not in competition...Re read the bit about setting up outlook email and fixing computer bugs or installing anti-virus software -- blah -- nah...I pass on that job -- but I have a guy that I trust and hire regularly to do it for all my clients -- I have his number right here for you!
+Visit a few groups, choose one -- instead of looking for certain people, look at their industries, the computer repair shop guy, the computer tech, business coaches, business lawyers -- these are a goldmine for our web design and SEO business...AND you are a goldmine referrer for them too -- [we have the same clients but we are not in competition][4]...Re read the bit about setting up outlook email and fixing computer bugs or installing anti-virus software -- blah -- nah...I pass on that job -- but I have a guy that I trust and hire regularly to do it for all my clients -- I have his number right here for you!
 
 When you visit a chapter look at their income and referrals sheets -- they hand them out at every meeting, even if you are a visitor you get to see them -- my chapter has referred over $700K in closed business so far this year -- over $200K a month -- 42 members -- you do the math ... Go get yourself a piece
 
@@ -187,7 +195,7 @@ I met with the business owner, told him who I am and what I do -- then I told hi
 
 I'm busy -- lots more work in the pipeline as well.  It's about the best ROI in time and money I have spent in this SEO/PPC business -- but the biggest part is that it opened me up to being out there, doing tons of cool stuff like the workshops and being able to get a bit picky with who I take on as a client...
 
-BNI is just[one 'part' of a successful marketing strategy][2]for a digital marketing agency.  I know you want to build a massive Agency and never see anyone -- speak to anyone and you don't care if you get local clients...well buddy -- you damn well should care...Get those local clients -- build your portfolio -- go get that money...its laying there waiting for you to pick it up -- you just have to scoop it up!
+BNI is just[one 'part' of a successful marketing strategy][4] for a digital marketing agency.  I know you want to build a massive Agency and never see anyone -- speak to anyone and you don't care if you get local clients...well buddy -- you damn well should care...Get those local clients -- build your portfolio -- go get that money...its laying there waiting for you to pick it up -- you just have to scoop it up!
 
 I have been doing really well with BNI -- closing sales and making money...BUT -- as my dear ol' coach Nathan said "didn't you send out postcards and direct mail yet? -- Wow don't go getting lazy..."
 
@@ -209,11 +217,17 @@ And if it's not BNI -- do something -- anything -- I don't care if it's email, c
 
 You already know 'way' more than the average business owner -- You already have learned a ton of tricks that can help them... NOW -- your time is NOW...
 
-Shoot me a message in the comments section if you want more strategy stuff like this...
-
 **NOW -- Get out there and CLOSE those deals!!**
 
-[0]: http://bni.com/
-[1]: http://incomebully.com/the-truth-about-generating-referrals-for-your-business/
-[2]: http://www.imxprs.com/free/ritchbits/6-figure-richard-legg-webinar-landing
-[3]: http://ritchbits.richardlegg.zaxaa.com/jvb/2745028311289
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/035a4844-b29f-41e5-91fc-4d5b402a60e8.jpg)
+
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][5]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58694b45-9d7c-455c-8d06-1405f0de69c8.jpg)
+
+[0]: http://partners.hostgator.com/c/247150/177309/3094
+[1]: http://bni.com/
+[2]: http://incomebully.com/the-truth-about-generating-referrals-for-your-business/
+[3]: http://www.imxprs.com/free/ritchbits/6-figure-richard-legg-webinar-landing
+[4]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[5]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
