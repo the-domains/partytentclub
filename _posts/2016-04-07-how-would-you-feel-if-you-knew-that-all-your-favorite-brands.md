@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: How would you feel if you knew that all your favorite brands and industry thought leaders stole content everyday?
-datePublished: '2016-04-07T18:38:23.500Z'
-dateModified: '2016-04-07T18:29:01.047Z'
+datePublished: '2016-04-07T21:28:40.128Z'
+dateModified: '2016-04-07T19:57:39.375Z'
 title: SHARING IS CARING. How to ethically steal other peoples content and have them love you for it
 author: []
 sourcePath: _posts/2016-04-07-how-would-you-feel-if-you-knew-that-all-your-favorite-brands.md
@@ -25,7 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b0bb1a-03b9-46cd-9906-78505a27b4c7.jpg)
 
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ac98088-bacf-4b66-8f1e-fbe9aa831248.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/306b67626524891a76a2675d730877270fa2eba2.png)
 
 How would you feel if you knew that all your favorite brands and industry thought leaders stole content everyday?
 
@@ -249,7 +249,7 @@ Answer that question and you'll have an endless supply of ideas. Then, the only 
 [Get the number 1 recommended website hosting and builder on the planet. Period!][1]
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef303f54-e693-45d7-b598-1f5c74d62e74.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac0897454ad2f14b65d5660ac330693ad7035cf0.gif)
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: http://partners.hostgator.com/c/247150/177309/3094
