@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It’s 2016… Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, “old school” methods.'
-datePublished: '2016-04-07T03:39:56.015Z'
-dateModified: '2016-04-07T03:37:59.988Z'
+datePublished: '2016-04-07T18:46:16.785Z'
+dateModified: '2016-04-07T18:46:09.405Z'
 title: 8 COLD CALLING TIPS FOR 2016
 author: []
+sourcePath: _posts/2016-04-07-8-cold-calling-tips-for-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-8-cold-calling-tips-for-2016.md
-published: true
 url: 8-cold-calling-tips-for-2016/index.html
 _type: Article
 
 ---
-[This is the best ecommerce website hosting and builder on the planet. Period!][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fecb0bb3-c7aa-4fa5-ac52-484f4d49b925.jpg)
+
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d57a061-d26b-411d-9233-8d144a28407a.gif)
 
 It's 2016... Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, "old school" methods.
@@ -45,7 +47,8 @@ So for all you readers planning to hit the phones to "drum up business", here's 
 
 ****
 
-8 COLD CALLING TIPS FOR 2016 TO KICK THE YEAR OFF RIGHT!
+8 COLD CALLING TIPS FOR 2016 AND BEYOND!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2087763-312d-4795-9473-ddbbdf4eb6b0.jpg)
 
 ****
 
@@ -66,6 +69,7 @@ The point is, you want the data to be available with a few clicks. You don't wan
 ****
 
 2.) THROW OUT THE SCRIPT AND BE AUTHENTIC!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f459aa-8bb6-4fc6-9532-c0d4ce352532.jpg)
 
 ****
 
@@ -98,6 +102,7 @@ Enter Your Email Below for Life Changing Content As It Gets Posted!
 ****
 
 3.) CALL FOR SALES NOT APPOINTMENTS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82135af3-b22e-42cc-8327-9aa7d7aa46ad.jpg)
 
 ****
 
@@ -138,6 +143,7 @@ I think the latter is ideal.
 ****
 
 4.) DLL -- DON'T LOSE LEADS.... EVER
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fc5d9d3-4260-44b3-bdf5-7d7060cfac12.jpg)
 
 ****
 
@@ -158,6 +164,7 @@ You need an efficient way to track your leads and also see data within a couple 
 ****
 
 5.) ALWAYS FOLLOW UP AND ALWAYS NURTURE YOUR LEADS!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/358eb4c0-655d-47ed-b608-eaf1cf975845.jpg)
 
 ****
 
@@ -304,7 +311,7 @@ FINAL THOUGHTS
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/694e99e3-01f6-472c-89da-4413c3c500a0.jpg)
 
-[This is the best ecommerce website hosting and builder on the planet. Period!][0]
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][2]
 
 Cold calling for some reason continues to attract people even if they don't have the right personality or "will power" to do it consistently. It's NOT the right option for all people, all the time. I wish others would admit that.
 
@@ -322,5 +329,6 @@ Cold calling fan? Cool. Cold calling hater? That's okay too! [My Ultimate Bluepr
 
 ****
 
-[0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
+[0]: http://partners.hostgator.com/c/247150/177309/3094
 [1]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[2]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
