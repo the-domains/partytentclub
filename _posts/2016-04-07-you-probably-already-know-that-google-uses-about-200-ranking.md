@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You probably already know that Google uses about 200 ranking factors in their algorithm…
-datePublished: '2016-04-07T18:28:08.944Z'
-dateModified: '2016-04-07T17:18:12.886Z'
+datePublished: '2016-04-07T19:39:52.413Z'
+dateModified: '2016-04-07T19:39:31.602Z'
 title: The 200 ranking factors Google uses in their algorithim
 author: []
 sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
@@ -495,9 +495,7 @@ Although the Google+ authorship program has been[shut down][75], it's likely Goo
 **191\. Meta Tag Spamming:**Keyword stuffing can also happen in meta tags. If Google thinks you're adding keywords to your meta tags to game the algo, they may hit your site with a penalty.
 
 ## **[Shopify is our choice for ecommerce ][89]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f18c7b-5b05-41a2-8391-83b884f3cce0.png)
-
-## 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d580ac1392e0cb3bce2a0ff058200387b6ff63d.png)
 
 ## ****
 
@@ -544,9 +542,6 @@ The checklist contains the 10 most important ranking factors on this list...
 
 [Click here to download the free checklist:][98]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9462228-3684-4770-a6eb-c1633ccef349.jpg)
-
-  
-
 
 [0]: http://www.imxprs.com/free/ritchbits/6-figure-richard-legg-webinar-landing
 [1]: https://my.leadpages.net/leadbox/1417f0b73f72a2%3A15d502426b46dc/5745865499082752/ "Ranking Factors Checklist"
