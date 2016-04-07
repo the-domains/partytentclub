@@ -4,7 +4,7 @@
         <description><![CDATA[Income Boss]]></description>
         <link>http://www.incomeboss.top/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 02:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 02:52:32 GMT</lastBuildDate>
         <atom:link href="http://www.incomeboss.top/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.incomeboss.top/close/index.html</link>
             <guid isPermaLink="false">5c16341f-fb4d-4cf0-98dd-0de9313eaade</guid>
             <pubDate>Thu, 07 Apr 2016 02:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>First post testing</p>]]></description>
-            <link>http://www.incomeboss.top/4cd18dfc-d5fc-42cd-a248-f4aa161783ec/index.html</link>
-            <guid isPermaLink="false">4cd18dfc-d5fc-42cd-a248-f4aa161783ec</guid>
-            <pubDate>Wed, 06 Apr 2016 21:02:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
