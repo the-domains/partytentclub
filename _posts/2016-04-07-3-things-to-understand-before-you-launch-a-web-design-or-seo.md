@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Before you head down the road to success or make a turn onto the boulevard of broken dreams, here are a few tips that will help.'
-datePublished: '2016-04-07T18:29:23.895Z'
-dateModified: '2016-04-07T17:50:18.106Z'
+datePublished: '2016-04-07T21:28:55.345Z'
+dateModified: '2016-04-07T20:15:16.386Z'
 title: 3 Things To Understand Before You Launch a Web Design or SEO Company 3 THINGS TO UNDERSTAND BEFORE YOU LAUNCH A WEB DESIGN OR SEO COMPANY
 author: []
 sourcePath: _posts/2016-04-07-3-things-to-understand-before-you-launch-a-web-design-or-seo.md
@@ -23,10 +23,10 @@ _type: Article
 
 ---
 First off the tools I use for website design and seo which you can find below, starting with two of the most important. Ecommerce and hosting.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c249d9-cc0c-4ed7-b7b6-098ac877e561.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96a3b35c1a8a25fbc8123a3fa1036da44d655fdc.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ba126e-2d6c-405e-af1a-3ebc566ce0d4.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/af1c403e3a7f06e820044770d0baa8ffba3c19a7.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16479511-dbe5-4333-9b7d-afe825f7149d.jpg)
