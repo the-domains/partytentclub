@@ -1,27 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: How would you feel if you knew that all your favorite brands and industry thought leaders stole content everyday?
-datePublished: '2016-04-07T02:52:52.708Z'
-dateModified: '2016-04-07T02:44:59.783Z'
-title: ''
+datePublished: '2016-04-07T18:28:34.894Z'
+dateModified: '2016-04-07T17:32:14.341Z'
+title: SHARING IS CARING. How to ethically steal other peoples content and have them love you for it
 author: []
+sourcePath: _posts/2016-04-07-how-would-you-feel-if-you-knew-that-all-your-favorite-brands.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-how-would-you-feel-if-you-knew-that-all-your-favorite-brands.md
-published: true
 url: how-would-you-feel-if-you-knew-that-all-your-favorite-brands/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b0bb1a-03b9-46cd-9906-78505a27b4c7.jpg)
+
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ac98088-bacf-4b66-8f1e-fbe9aa831248.png)
 
@@ -96,8 +98,7 @@ The best way to do that? Focus on certain words in your headline. KISSmetrics re
 Let's see how that looks with the clickbait formula we used for this section's heading:
 
 ****
-
-clickbait.png
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7713f654-3d9d-4dd5-b603-1e3d17cd5cd5.jpg)
 
 ****
 
@@ -122,10 +123,6 @@ Headline Formulas You Can Steal
 ****
 
 Lenka Istvanova analyzed the best practices for click-worthy headlines. During that analysis, she developed The Ultimate Headline Formula. It goes like this:
-
-****
-
-headline\_formula.png
 
 ****
 
@@ -182,18 +179,7 @@ One of the most foundational components in traditional journalism is the inverte
 ****
 
 The idea behind this structure is that the most important information goes at the top, with supporting information following. That way, if someone stopped reading mid-way through the story, they'd still retain the core concepts of the piece.
-
-****
-
-Here's what stories using the inverted pyramid look like: 
-
-****
-
-inverted\_pyramid-1.png
-
-****
-
-Image Credit: University of Leicester
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f54a746-b054-4778-a2c9-7e9028bf9082.jpg)
 
 ****
 
@@ -222,8 +208,7 @@ Instead of a graphic, design a: Infographic, Meme, GIF, Cartoon, Chart, Graph
 Econsultancy's Periodic Table of Content Marketing has tons of other ideas that you can steal to clarify your content marketing efforts:
 
 ****
-
-periodic\_table\_of\_content\_marketing.png
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/919bc6e7-5765-499d-9259-a4f47d67ba47.jpg)
 
 ****
 
