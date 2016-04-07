@@ -5,23 +5,25 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Summer school is in.
-datePublished: '2016-04-07T05:27:37.215Z'
-dateModified: '2016-04-07T05:27:20.832Z'
+description: 'Okay, that might be a bit harsh… maybe SEO isn’t dead, but things have changed and you need to look beyond SEO to drive traffic to your website.'
+datePublished: '2016-04-07T16:55:59.451Z'
+dateModified: '2016-04-07T16:55:20.042Z'
 title: 43 Ways to Drive more Traffic to a New Website Through Growth Hacking
 author: []
+sourcePath: _posts/2016-04-07-43-ways-to-drive-more-traffic-to-a-new-website-through-growt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-43-ways-to-drive-more-traffic-to-a-new-website-through-growt.md
-published: true
 url: 43-ways-to-drive-more-traffic-to-a-new-website-through-growt/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ec8bf6-e667-418c-bde8-643bea139636.jpg)
+
 Okay, that might be a bit harsh... maybe SEO isn't dead, but things have changed and you need to look beyond SEO to drive traffic to your website.
 
 If you put all your eggs in Google's basket by focusing only on SEO to generate traffic for your SaaS app, you could end up with much less traffic -- especially quality, qualified, relevant traffic -- than you'd like, which means fewer trial signups, fewer customers, and less revenue!
@@ -53,6 +55,7 @@ For Airbnb, it was finding a super cool integration that would add virality to t
 Another example is[HitTail][1]-- an SEO keyword tool -- where this "growth hacking" (knowing your customers and doing awesome things to reach/help them) resulted in the discovery that customers churned out because they got great SEO data, but didn't have time to write content around it...
 
 ... so HitTail is doing an integration with[Textbroker's API][2]to allow HitTail customers to order articles/blog posts on-demand based on keyword data!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bacd7769-3a2e-41f3-a8d6-39e6e601ba0e.jpg)
 
 ## But You Just Need to Drive More Traffic to your Website, right?
 
@@ -235,6 +238,7 @@ Just print this and give it to an 8-year old kid, they'll figure it out.
 To your success,
 
 Craig Ballantyne
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c080738-1bca-4265-9448-69eb9ea884c1.jpg)
 
 "Opportunity is missed by most people because it is dressed in overalls and looks like work." -- Thomas Alva Edison
 
