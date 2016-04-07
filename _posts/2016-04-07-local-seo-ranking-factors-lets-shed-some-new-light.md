@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-07T03:28:16.762Z'
-dateModified: '2016-04-07T03:22:53.257Z'
+datePublished: '2016-04-07T18:27:49.151Z'
+dateModified: '2016-04-07T18:21:36.220Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
+sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
-published: true
 url: local-seo-ranking-factors-lets-shed-some-new-light/index.html
 _type: Article
 
 ---
-[This is the best ecommerce website hosting and builder on the planet. Period!][0]
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab69d06b-c73f-4969-b6b5-63982d4379e6.png)
 
 Every year the power house in the industry releases a survey of "professionals" in the local SEO arena. I'm sure most of you have heard of Moz.com and their [Local SEO Ranking Factors survey ][1]that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
@@ -288,9 +288,13 @@ I didn't post this because of any problems with Moz, I wanted to publish this be
 ****
 
 [Sometimes if you want the best results possible, you have to ignore the majority consensus and create your own path based on reason and data available from your own experience and experiments!][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f7c2e86-47a4-4426-a48b-d1f470a405af.gif)
+
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][3]
 
 ****
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: https://moz.com/local-search-ranking-factors
 [2]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[3]: http://partners.hostgator.com/c/247150/177309/3094
