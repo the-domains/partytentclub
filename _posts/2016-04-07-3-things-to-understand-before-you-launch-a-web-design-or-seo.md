@@ -3,33 +3,42 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'It IS fun, for the most part and there are few things better in life than being your own boss.'
-datePublished: '2016-04-07T03:13:08.680Z'
-dateModified: '2016-04-07T03:12:33.062Z'
+description: 'Before you head down the road to success or make a turn onto the boulevard of broken dreams, here are a few tips that will help.'
+datePublished: '2016-04-07T18:29:23.895Z'
+dateModified: '2016-04-07T17:50:18.106Z'
 title: 3 Things To Understand Before You Launch a Web Design or SEO Company 3 THINGS TO UNDERSTAND BEFORE YOU LAUNCH A WEB DESIGN OR SEO COMPANY
 author: []
+sourcePath: _posts/2016-04-07-3-things-to-understand-before-you-launch-a-web-design-or-seo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-3-things-to-understand-before-you-launch-a-web-design-or-seo.md
-published: true
 url: 3-things-to-understand-before-you-launch-a-web-design-or-seo/index.html
 _type: Article
 
 ---
-[This is the best ecommerce website hosting and builder on the planet. Period!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3c587ca-f3ae-478d-bac4-b2d3de7da577.png)
+First off the tools I use for website design and seo which you can find below, starting with two of the most important. Ecommerce and hosting.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c249d9-cc0c-4ed7-b7b6-098ac877e561.jpg)
+
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ba126e-2d6c-405e-af1a-3ebc566ce0d4.gif)
+
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16479511-dbe5-4333-9b7d-afe825f7149d.jpg)
+
+There's a few things you need to know about running an agency.
 
 It IS fun, for the most part and there are few things better in life than being your own boss.
 
 Before you head down the road to success or make a turn onto the boulevard of broken dreams, here are a few tips that will help.
 
 ## WHAT YOU NEED TO KNOW TO GET STARTED
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/defebf80-8d27-42d3-8160-9177ec09dfd4.jpg)
 
 There are a few things you need to keep in mind before giving this the good ole "college try".
 
@@ -83,7 +92,13 @@ People get hung up on stupid stuff. I'm no exception and I'm sure you aren't eit
 
 There comes a point when the planning phase is done. Don't procrastinate by adding unnecessary things to your plan, just get started implementing it!
 
-_**[You want more tips? How about an entire blueprint on how to start and run your own web agency? Get it now!][1]**_
+_**[You want more tips? How about an entire blueprint on how to start and run your own web agency? Get it now!][2]**_
+
+__
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e3856d7-9e8d-443d-bbcb-eb209bdc1de7.jpg)
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
-[1]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[1]: http://partners.hostgator.com/c/247150/177309/3094
+[2]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
