@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.'
-datePublished: '2016-04-07T03:39:55.447Z'
-dateModified: '2016-04-07T03:37:22.347Z'
+datePublished: '2016-04-07T21:33:30.169Z'
+dateModified: '2016-04-07T20:45:58.090Z'
 title: THE TRUTH ABOUT NICHES AND WHAT YOU SHOULD DO
 author: []
+sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
-published: true
 url: the-truth-about-niches-and-what-you-should-do/index.html
 _type: Article
 
 ---
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8440fc4-d035-4b99-aede-16166b9a462f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e650402ec5d1be67b2b3ae432bb339c0d3bcfdf6.jpg)
 
 Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.
 
@@ -56,6 +56,7 @@ So lets get to it.
 ****
 
 DEFINING YOUR GOALS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a68fd957-8eb9-4485-b87a-1b74dd585425.jpg)
 
 ****
 
@@ -136,6 +137,7 @@ If you're a timid person, you will get abused. You must set boundaries and expec
 Another downfall is that your only specialization is within the location, but not a specific industry. The businesses you likely want to work with most, are businesses that are aggressive in their marketing and want to be the \#1 business in their field. Many times, the local factor isn't enough to win the sale, they want proven results within their industry because it is the lower risk and higher reward option.
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b617235e-4664-445d-90d0-71d1f528bf11.jpg)
 
 2.) WORKING WITH LOCAL BUSINESSES IN A SPECIFIC NICHE
 
@@ -275,8 +277,8 @@ I personally would eliminate \#1, as being the local guy in my opinion is too li
 
 Best doesn't equate to highest gross revenue. The best option, is one that you identified with what you want to accomplish. It's an individual decision, not a decision that can be determined by any collective.
 
-[See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][1]   
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b29663e7-c63c-437c-b4aa-5e9cc311e69f.gif)
+[See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][1]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/789a993631b30cb76aa3e6113f0b3f3bcd582985.gif)
 
 ****
 
