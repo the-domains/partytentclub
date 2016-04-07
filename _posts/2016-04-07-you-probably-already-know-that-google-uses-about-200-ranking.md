@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You probably already know that Google uses about 200 ranking factors in their algorithm…
-datePublished: '2016-04-07T16:58:10.992Z'
-dateModified: '2016-04-07T16:58:04.722Z'
+datePublished: '2016-04-07T18:28:08.944Z'
+dateModified: '2016-04-07T17:18:12.886Z'
 title: The 200 ranking factors Google uses in their algorithim
 author: []
 sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
@@ -484,38 +484,54 @@ Although the Google+ authorship program has been[shut down][75], it's likely Goo
 **189\. Excess PageRank Sculpting:**Going too far with[PageRank sculpting][86]--- by nofollowing all outbound links or most internal links --- may be a sign of gaming the system.
 
 **190\. IP Address Flagged as Spam:**If your server's IP address is flagged for spam,[it may hurt all of the sites on that server][87].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8557258c-2252-44e9-ac2d-a3f87c5564fb.gif)
+
+## **[Top recommended hosting provider][88]**
+
+****
+
+****
 
 **191\. Meta Tag Spamming:**Keyword stuffing can also happen in meta tags. If Google thinks you're adding keywords to your meta tags to game the algo, they may hit your site with a penalty.
+
+## **[Shopify is our choice for ecommerce ][89]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f18c7b-5b05-41a2-8391-83b884f3cce0.png)
+
+## 
+
+## ****
+
+## ****
 
 ## **Off Page Webspam Factors**
 
 **192\. Unnatural Influx of Links**: A sudden (and unnatural) influx of links is a sure-fire sign of phony links.
 
-**193\. Penguin Penalty:**Sites that were hit by[Google Penguin][88]are significantly less visible in search.
+**193\. Penguin Penalty:**Sites that were hit by[Google Penguin][90]are significantly less visible in search.
 
 **194\. Link Profile with High % of Low Quality Links:**Lots of links from sources commonly used by black hat SEOs (like blog comments and forum profiles) may be a sign of gaming the system.
 
-**195\. Linking Domain Relevancy:**The famous analysis by[MicroSiteMasters.com][89]found that sites with an unnaturally high amount of links from unrelated sites were more susceptible to Penguin.
+**195\. Linking Domain Relevancy:**The famous analysis by[MicroSiteMasters.com][91]found that sites with an unnaturally high amount of links from unrelated sites were more susceptible to Penguin.
 
-**196\. Unnatural Links Warning:**Google sent out thousands of "Google Webmaster Tools notice of detected unnatural links" messages. This usually precedes a ranking drop, although[not 100% of the time][90].
+**196\. Unnatural Links Warning:**Google sent out thousands of "Google Webmaster Tools notice of detected unnatural links" messages. This usually precedes a ranking drop, although[not 100% of the time][92].
 
 **197\. Links from the Same Class C IP**: Getting an unnatural amount of links from sites on the same server IP may be a sign of blog network link building.
 
 **198\. "Poison" Anchor Text:**Having "poison" anchor text (especially pharmacy keywords) pointed to your site may be a sign of spam or a hacked site. Either way, it can hurt your site's ranking.
 
-**199\. Manual Penalty:**Google has been known to hand out manual penalties, like in the well-publicized[Interflora fiasco][91].
+**199\. Manual Penalty:**Google has been known to hand out manual penalties, like in the well-publicized[Interflora fiasco][93].
 
-**200\. Selling Links:**Selling links can definitely impact[toolbar PageRank][92]and may hurt your search visibility.
+**200\. Selling Links:**Selling links can definitely impact[toolbar PageRank][94]and may hurt your search visibility.
 
-**201\. Google Sandbox:**New sites that get a sudden influx of links are sometimes put in the[Google Sandbox][93], which temporarily limits search visibility.
+**201\. Google Sandbox:**New sites that get a sudden influx of links are sometimes put in the[Google Sandbox][95], which temporarily limits search visibility.
 
-**202\. Google Dance:**The Google Dance can temporarily shake up rankings. According to a[Google Patent][94], this may be a way for them to determine whether or not a site is trying to game the algorithm.
+**202\. Google Dance:**The Google Dance can temporarily shake up rankings. According to a[Google Patent][96], this may be a way for them to determine whether or not a site is trying to game the algorithm.
 
 **203\. Disavow Tool:**Use of the Disavow Tool may remove a manual or algorithmic penalty for sites that were the victims of negative SEO.
 
 **204\. Reconsideration Request**: A successful reconsideration request can lift a penalty.
 
-**205\. Temporary Link Schemes:**Google has (apparently) caught onto people that create --- and quickly remove --- spammy links. Also know as a[temporary link scheme][95].
+**205\. Temporary Link Schemes:**Google has (apparently) caught onto people that create --- and quickly remove --- spammy links. Also know as a[temporary link scheme][97].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee8229f5-6a75-4dad-8317-621ffd190b56.jpg)
 
 ## **"How Can I Use This Information For My Site?"**
@@ -526,8 +542,11 @@ The checklist contains the 10 most important ranking factors on this list...
 
 ...and super-actionable strategies that you can use to get higher rankings and more traffic.
 
-[Click here to download the free checklist:][96]
+[Click here to download the free checklist:][98]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9462228-3684-4770-a6eb-c1633ccef349.jpg)
+
+  
+
 
 [0]: http://www.imxprs.com/free/ritchbits/6-figure-richard-legg-webinar-landing
 [1]: https://my.leadpages.net/leadbox/1417f0b73f72a2%3A15d502426b46dc/5745865499082752/ "Ranking Factors Checklist"
@@ -617,12 +636,14 @@ The checklist contains the 10 most important ranking factors on this list...
 [85]: http://support.google.com/webmasters/bin/answer.py?hl=en&answer=2721306 "Autogenerated Content"
 [86]: http://searchengineland.com/pagerank-sculpting-is-dead-long-live-pagerank-sculpting-21102 "PageRank Sculpting"
 [87]: http://www.seoinc.com/seo-blog/dedicated-ip-address-to-improve-google-seo/ "IP Address Penalty"
-[88]: http://en.wikipedia.org/wiki/Google_Penguin "Google Penguin"
-[89]: http://www.micrositemasters.com/blog/penguin-analysis-seo-isnt-dead-but-you-need-to-act-smarter-and-5-easy-ways-to-do-so/ "Linking Domain Relevancy"
-[90]: http://productforums.google.com/forum/#!topic/webmasters/XNBqi7n-UEk "Google WMT Message to the BBC"
-[91]: http://searchengineland.com/google-says-no-comment-on-why-interflora-was-penalized-149308 "Interflora Penalty"
-[92]: http://searchengineland.com/google-reminds-webmasters-selling-links-can-lead-to-pagerank-penalty-131615 "Selling Links"
-[93]: http://en.wikipedia.org/wiki/Sandbox_effect "Google Sandbox"
-[94]: http://www.seobythesea.com/2012/08/google-rank-modifying-spammers-patent/ "Rank Modifying Spammers Patent"
-[95]: http://dejanseo.com.au/temporary-link-schemes/
-[96]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
+[88]: http://partners.hostgator.com/c/247150/177309/3094
+[89]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
+[90]: http://en.wikipedia.org/wiki/Google_Penguin "Google Penguin"
+[91]: http://www.micrositemasters.com/blog/penguin-analysis-seo-isnt-dead-but-you-need-to-act-smarter-and-5-easy-ways-to-do-so/ "Linking Domain Relevancy"
+[92]: http://productforums.google.com/forum/#!topic/webmasters/XNBqi7n-UEk "Google WMT Message to the BBC"
+[93]: http://searchengineland.com/google-says-no-comment-on-why-interflora-was-penalized-149308 "Interflora Penalty"
+[94]: http://searchengineland.com/google-reminds-webmasters-selling-links-can-lead-to-pagerank-penalty-131615 "Selling Links"
+[95]: http://en.wikipedia.org/wiki/Sandbox_effect "Google Sandbox"
+[96]: http://www.seobythesea.com/2012/08/google-rank-modifying-spammers-patent/ "Rank Modifying Spammers Patent"
+[97]: http://dejanseo.com.au/temporary-link-schemes/
+[98]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
