@@ -1,7 +1,7 @@
 name: Income Boss
 favicon: null
-layout_spectrum: 0.79584
-typography_spectrum: 0.82824
+layout_spectrum: 0.75067
+typography_spectrum: 0.88786
 title: Income Boss
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#ead9eb'
     - '#a46ba8'
-  brandStrength: 0.875
-  lightness: 0.3838571247179061
+  brandStrength: 0.125
+  lightness: 0.9375
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
