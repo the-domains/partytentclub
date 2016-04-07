@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Throughout my time of running an agency, I’ve tried just about every prospecting method you can imagine. From networking to content marketing and even paying people to hand out flyers – it all seemed to be just mediocre.'
-datePublished: '2016-04-07T18:38:03.434Z'
-dateModified: '2016-04-07T18:37:57.149Z'
+datePublished: '2016-04-07T21:33:15.177Z'
+dateModified: '2016-04-07T20:42:01.821Z'
 title: HOW I WENT FROM 0 TO 25K/MO WITH THE HELP OF THIS STRATEGY
 author: []
 sourcePath: _posts/2016-04-07-how-i-went-from-0-to-25kmo-with-the-help-of-this-strategy.md
@@ -25,7 +25,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e5f038-16eb-44d7-a9ae-c3419252bdb1.jpg)
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6d7ac5c-8880-459d-99d0-42b5dfecf6a8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7ef4dcf9ca179f9ed5a4448f5d83a8563285765.jpg)
 
 Throughout my time of running an agency, I've tried just about every prospecting method you can imagine. From networking to content marketing and even paying people to hand out flyers -- it all seemed to be just mediocre.
 
@@ -107,7 +107,7 @@ Keep in mind, most of these business owners are receiving dozens of emails a wee
 There are endless possibilities for content.
 
 It's also important to understand that many of these business owners won't even go through the content. They may breeze through the pages and view small sections but the chances of them going through all of it are slim. That's not a problem.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6f98e03-dfb4-4049-95fa-0fbee8348046.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5994ef681af6f07b9d0c8aace3bdf8c9c291b36f.jpg)
 
 **_Following Up on Your Content_**
 
@@ -175,7 +175,7 @@ Note from Nathan:
 Richard has been a member of the Mastermind Group ([for those that have purchased the Ultimate Blueprint ][1]or [Ice Cold Email Gold)][2] and I'm glad he's been able to share this with you all! Ken has his own blog called, "The Consulting Formula" which has content focused on agency growth and real world experience. He also has a full guide to his [6 Figure Direct Mail template. ][3]He mentioned it's responsible for 7 high ticket clients in 19 days, definitely worth checking out!
 
 Also worth checking out if you do business online:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fc6a896-eb3d-4a71-b76e-9a4e5c6b8e41.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/00943af565330dba0bf4de1da4b5dc664aa149c3.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][4]
 
