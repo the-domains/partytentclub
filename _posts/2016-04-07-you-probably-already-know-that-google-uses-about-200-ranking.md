@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You probably already know that Google uses about 200 ranking factors in their algorithm…
-datePublished: '2016-04-07T19:39:52.413Z'
-dateModified: '2016-04-07T19:39:31.602Z'
+datePublished: '2016-04-07T19:41:29.671Z'
+dateModified: '2016-04-07T19:41:17.079Z'
 title: The 200 ranking factors Google uses in their algorithim
 author: []
 sourcePath: _posts/2016-04-07-you-probably-already-know-that-google-uses-about-200-ranking.md
@@ -484,7 +484,7 @@ Although the Google+ authorship program has been[shut down][75], it's likely Goo
 **189\. Excess PageRank Sculpting:**Going too far with[PageRank sculpting][86]--- by nofollowing all outbound links or most internal links --- may be a sign of gaming the system.
 
 **190\. IP Address Flagged as Spam:**If your server's IP address is flagged for spam,[it may hurt all of the sites on that server][87].
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8557258c-2252-44e9-ac2d-a3f87c5564fb.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d93d6eb3ddf2d1e3666384ab44017c42a352fa5.gif)
 
 ## **[Top recommended hosting provider][88]**
 
