@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'For some reason reviews don’t get a lot of credit when it comes to local SEO. People talk about backlinking, citation building, on page optimization, map embeds, youtube videos but one of the highest impact things that can be done is harvesting reviews for a business.'
-datePublished: '2016-04-07T18:40:45.203Z'
-dateModified: '2016-04-07T18:27:37.072Z'
+datePublished: '2016-04-07T21:32:40.778Z'
+dateModified: '2016-04-07T21:32:38.228Z'
 title: 'REVIEWS: THE UNDERSTATED VARIABLE IN LOCAL SEO'
 author: []
 sourcePath: _posts/2016-04-07-reviews-the-understated-variable-in-local-seo.md
@@ -25,7 +25,6 @@ _type: Article
 # REVIEWS: THE UNDERSTATED VARIABLE IN LOCAL SEO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff46d72f-56b5-4a8d-8d7a-c2d23866dc59.jpg)
 
-  
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a556496-b1ab-4613-a88e-258598cb6af2.png)
 
@@ -158,7 +157,7 @@ Email:
 Submit
 
 # THE ALGORITHM NOBODY TALKS ABOUT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/957b27cc-5321-49c6-8b31-acad04f2897b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2984b79f3de9682651345a231ab4ea6efcffecd2.jpg)
 
 ****
 
@@ -351,15 +350,13 @@ If you're in a competitive field, reviews can certainly be a difference maker fo
 ****
 
 [Are you wanting to launch your own agency? Do you already have an agency but you're wanting to grow? Look no further than the Ultimate Blueprint to Starting Your Own Agency. Everything you need is in there, all you need is to apply what you learn!][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56871a0f-f94a-4fbc-a27a-389a09a4c568.jpg)
-
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ba97f57-d488-4cda-8e49-9f3e47a7d45b.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa3213c239cf70673275491084a82692b0c13a6a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cbcdf96ef6656777f37a4b1d1560035fc377b20.gif)
 
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][1]
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3051bd99-ebb0-4a2b-8a9b-5913895143b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/565d49da978a067c027517a586cd3b0aec8c6618.jpg)
 
 ****
 
