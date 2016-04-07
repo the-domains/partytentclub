@@ -6,26 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Making the decision to start your own company is not an easy one. People are attracted to this business for countless reasons, like being your own boss, making more money, doing something you enjoy, spending more time with family, etc.'
-datePublished: '2016-04-07T03:39:55.657Z'
-dateModified: '2016-04-07T03:37:50.039Z'
-title: 5 MISTAKES BEGINNERS MAKE WHEN STARTING THEIR AGENCY
+datePublished: '2016-04-07T22:46:55.328Z'
+dateModified: '2016-04-07T22:46:54.103Z'
+title: 5 MISTAKES I MADE WHEN STARTING MY AGENCY
 author: []
+sourcePath: _posts/2016-04-07-5-mistakes-beginners-make-when-starting-their-agency.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-5-mistakes-beginners-make-when-starting-their-agency.md
-published: true
 url: 5-mistakes-beginners-make-when-starting-their-agency/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e1220c9-edd8-447a-b6dc-be8f47c388ac.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b84753b5bf0b593d543d16a3e3b3abaea674ad7.gif)
 
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c987627-66fa-459c-87f6-b48f7e718269.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/817a8d386563e3d9caec7c2a2d12bab07eb54167.jpg)
 
 Making the decision to start your own company is not an easy one. People are attracted to this business for countless reasons, like being your own boss, making more money, doing something you enjoy, spending more time with family, etc.
 
@@ -58,6 +58,7 @@ However... I hope to make things a little bit easier for those of you getting re
 ****
 
 YOUR WEBSITE IS ONE OF YOUR BEST ASSETS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc05a63-73b6-4fef-aaf9-be0d4ad24b5d.jpg)
 
 ****
 
@@ -96,6 +97,7 @@ Your customers or prospective clients are the same way. Why allow them to search
 If they have a need for what you're offering but want to learn more about you, why you can help, more information... can they find it on your website?
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e32f246-ba13-4f6d-a83e-fde73d465b68.jpg)
 
 Your website needs to be informative, and authoritative. You don't need to follow guru guidelines, you just need to provide content that will be helpful to business owners.
 
@@ -319,13 +321,7 @@ Outline absolutely everything you will do to generate sales. This will allow you
 
 ****
 
-Enter Your Email Below For More Helpful Content To Guide You To Success!
-
-****
-
-Email: 
-
-Submit
+For More Helpful Content, Enter Your Email To Get My 3 Steps Guide To Success!
 
 ****
 
@@ -426,6 +422,7 @@ Simple as that.
 ****
 
 FINAL THOUGHTS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2ed33e3-10dd-46a6-a0fc-e760b02a2701.jpg)
 
 ****
 
@@ -442,10 +439,7 @@ Have you made any of these mistakes? What was the biggest mistake you've made in
 ****
 
 [Are you struggling with getting clients? Are you about to launch your own web agency? Get ahead of your competition by checking out The ULTIMATE Blueprint to Starting a Web Agency][1]
-
-  
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcb36380-230e-41fe-8b0b-987383785030.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2919b653d25db713329c3a44f03864ef221c900f.gif)
 
 [See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][2]
 
