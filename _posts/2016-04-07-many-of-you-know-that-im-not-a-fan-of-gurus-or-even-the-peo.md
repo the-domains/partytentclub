@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Many of you know that I’m not a fan of gurus or even the people that have come highly regarded in the industry of marketing, SEO, sales, etc. I’m just not a believer in a lot of them.'
-datePublished: '2016-04-07T18:29:15.307Z'
-dateModified: '2016-04-07T17:37:44.905Z'
+datePublished: '2016-04-07T18:39:06.360Z'
+dateModified: '2016-04-07T18:38:56.095Z'
 title: Gary V Interview.
 author: []
 sourcePath: _posts/2016-04-07-many-of-you-know-that-im-not-a-fan-of-gurus-or-even-the-peo.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 [Shopify is the best choice for ecommerce sites based on comparison reviews. 
 ][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c053272-d1a9-4ff6-9fa3-fe7e6193dff9.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa2d959b-aab4-4e53-836e-1ccaeb764b93.jpg)
 
 Many of you know that I'm not a fan of gurus or even the people that have come highly regarded in the industry of marketing, SEO, sales, etc. I'm just not a believer in a lot of them.
 
