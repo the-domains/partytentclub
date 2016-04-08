@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'So I used to be a pretty heavy smoker, stress does that to you but I also enjoyed it. I quit a few different times and always went back to smoking until I started vaping. If you’re someone that has switched to vaping, you probably spend a little bit of time at your local vape shop, checking out new equipment, trying different juice flavors, and just hanging out.'
-datePublished: '2016-04-07T21:29:56.317Z'
-dateModified: '2016-04-07T20:21:46.974Z'
+datePublished: '2016-04-08T06:33:05.138Z'
+dateModified: '2016-04-08T06:32:53.057Z'
 title: HOW A VAPE STORE DOUBLED THEIR SALES WITH THESE 3 SIMPLE THINGS
 author: []
 sourcePath: _posts/2016-04-07-how-a-vape-store-doubled-their-sales-with-these-3-simple-thi.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: how-a-vape-store-doubled-their-sales-with-these-3-simple-thi/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce5ae265-54b8-4592-ad9c-f5204bee51da.jpg)
