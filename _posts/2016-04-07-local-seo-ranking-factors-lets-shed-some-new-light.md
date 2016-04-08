@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-07T22:30:55.252Z'
-dateModified: '2016-04-07T22:30:39.167Z'
+datePublished: '2016-04-08T01:48:29.572Z'
+dateModified: '2016-04-08T01:48:26.227Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
 sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
@@ -24,6 +24,7 @@ _type: Article
 ---
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c225c48e2bd063c9a96d5138d9b8555eb7e0f0bd.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31fe15c6-5ee3-407e-98f7-e99e994c012e.jpg)
 
 Every year the power house in the industry releases a survey of "professionals" in the local SEO arena. I'm sure most of you have heard of Moz.com and their [Local SEO Ranking Factors survey ][1]that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
 
@@ -87,7 +88,7 @@ Collectives do not think creatively or honestly.  Their only concern is the surv
 ****
 
 Now I won't say that Moz or the contributors to this survey want to build a foundation of lies. I think Moz is an excellent source for news and opinions on SEO but you can't judge or base a strategy on what people say in their round up/survey.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc11c00c-3e33-4102-867d-483e03f67ec5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/395552f4f2fc44aa993742ee28c8b8687865cf09.jpg)
 
 ****
 
