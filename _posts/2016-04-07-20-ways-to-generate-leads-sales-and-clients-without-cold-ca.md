@@ -5,12 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-
-  Shopify is the best choice for ecommerce sites based on comparison reviews.
-datePublished: '2016-04-08T00:20:31.515Z'
-dateModified: '2016-04-07T22:26:44.106Z'
-title: "20 WAYS TO BRING IN MORE LEADS AND SALES'"
+description: 'Every business owner has something in common. Everyone wants more profit, more leads, more sales, more clients, etc. One of the biggest struggles people have, is that they don’t know what to do to generate leads.'
+datePublished: '2016-04-08T00:48:00.551Z'
+dateModified: '2016-04-08T00:47:59.746Z'
+title: "Gather round. It's time to talk sales."
 author: []
 sourcePath: _posts/2016-04-07-20-ways-to-generate-leads-sales-and-clients-without-cold-ca.md
 published: true
@@ -24,6 +22,9 @@ url: 20-ways-to-generate-leads-sales-and-clients-without-cold-ca/index.html
 _type: Article
 
 ---
+# Gather round. It's time to talk sales.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9523b969-8010-4b7f-83a9-d94f87a6ed81.jpg)
+
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bece992b-0351-4245-bab4-734390e99f5f.jpg)
 
