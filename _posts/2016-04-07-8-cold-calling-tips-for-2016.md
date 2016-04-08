@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It’s 2016… Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, “old school” methods.'
-datePublished: '2016-04-08T05:27:28.674Z'
-dateModified: '2016-04-08T05:27:26.557Z'
+datePublished: '2016-04-08T08:13:12.163Z'
+dateModified: '2016-04-08T08:13:10.425Z'
 title: 8 COLD CALLING TIPS FOR 2016
 author: []
 sourcePath: _posts/2016-04-07-8-cold-calling-tips-for-2016.md
@@ -24,7 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3b3663a-db29-4826-b9c4-dccd52ab7bdb.jpg)
 
-  
 [My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices. ][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd5f26c2870e2afccb3377018dfbddcda6b10584.gif)
 
