@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.'
-datePublished: '2016-04-08T00:36:29.807Z'
-dateModified: '2016-04-08T00:36:08.576Z'
+datePublished: '2016-04-08T00:44:16.061Z'
+dateModified: '2016-04-08T00:44:15.263Z'
 title: THE TRUTH ABOUT NICHES AND WHAT YOU SHOULD DO
 author: []
 sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
