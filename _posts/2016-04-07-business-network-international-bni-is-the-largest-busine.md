@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Business Network International – BNI – is the largest business referral group in the world\_according to the BNI website"
-datePublished: '2016-04-07T21:37:00.114Z'
-dateModified: '2016-04-07T21:13:55.382Z'
+datePublished: '2016-04-08T00:19:40.059Z'
+dateModified: '2016-04-07T22:52:58.303Z'
 title: How to use BNI meetups to find clients
 author: []
 sourcePath: _posts/2016-04-07-business-network-international-bni-is-the-largest-busine.md
