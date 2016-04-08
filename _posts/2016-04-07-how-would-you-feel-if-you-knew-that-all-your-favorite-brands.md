@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: How would you feel if you knew that all your favorite brands and industry thought leaders stole content everyday?
-datePublished: '2016-04-07T21:28:40.128Z'
-dateModified: '2016-04-07T19:57:39.375Z'
+datePublished: '2016-04-08T03:33:54.229Z'
+dateModified: '2016-04-08T03:33:53.545Z'
 title: SHARING IS CARING. How to ethically steal other peoples content and have them love you for it
 author: []
 sourcePath: _posts/2016-04-07-how-would-you-feel-if-you-knew-that-all-your-favorite-brands.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: how-would-you-feel-if-you-knew-that-all-your-favorite-brands/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b0bb1a-03b9-46cd-9906-78505a27b4c7.jpg)
