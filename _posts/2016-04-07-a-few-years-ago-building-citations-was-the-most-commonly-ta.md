@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Everyone knows to build listings or citations on big sites like Yelp, Manta, YP, FourSquare, and others.'
-datePublished: '2016-04-07T21:37:18.121Z'
-dateModified: '2016-04-07T21:19:21.645Z'
+datePublished: '2016-04-08T03:19:36.687Z'
+dateModified: '2016-04-08T03:19:35.639Z'
 title: 6 BEST KEPT SEO SECRETS TO BOOST YOUR LOCAL RANKINGS
 author: []
 sourcePath: _posts/2016-04-07-a-few-years-ago-building-citations-was-the-most-commonly-ta.md
