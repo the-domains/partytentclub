@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Making the decision to start your own company is not an easy one. People are attracted to this business for countless reasons, like being your own boss, making more money, doing something you enjoy, spending more time with family, etc.'
-datePublished: '2016-04-07T22:46:55.328Z'
-dateModified: '2016-04-07T22:46:54.103Z'
+datePublished: '2016-04-08T00:20:01.253Z'
+dateModified: '2016-04-07T22:53:21.800Z'
 title: 5 MISTAKES I MADE WHEN STARTING MY AGENCY
 author: []
 sourcePath: _posts/2016-04-07-5-mistakes-beginners-make-when-starting-their-agency.md
