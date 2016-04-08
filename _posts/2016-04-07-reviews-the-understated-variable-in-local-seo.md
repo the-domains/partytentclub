@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'For some reason reviews don’t get a lot of credit when it comes to local SEO. People talk about backlinking, citation building, on page optimization, map embeds, youtube videos but one of the highest impact things that can be done is harvesting reviews for a business.'
-datePublished: '2016-04-08T00:39:56.477Z'
-dateModified: '2016-04-08T00:39:40.271Z'
+datePublished: '2016-04-08T00:43:37.992Z'
+dateModified: '2016-04-08T00:40:05.711Z'
 title: 'REVIEWS: THE UNDERSTATED VARIABLE IN LOCAL SEO'
 author: []
 sourcePath: _posts/2016-04-07-reviews-the-understated-variable-in-local-seo.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f56883-62f5-41ee-a919-3b513a455d57.jpg)
-
-# 
 
 # REVIEWS: THE UNDERSTATED VARIABLE IN LOCAL SEO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff46d72f-56b5-4a8d-8d7a-c2d23866dc59.jpg)
