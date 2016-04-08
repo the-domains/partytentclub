@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.'
-datePublished: '2016-04-08T03:16:26.799Z'
-dateModified: '2016-04-08T03:11:47.047Z'
+datePublished: '2016-04-08T05:21:34.777Z'
+dateModified: '2016-04-08T04:03:49.251Z'
 title: THE TRUTH ABOUT NICHES AND WHAT YOU SHOULD DO
 author: []
 sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-truth-about-niches-and-what-you-should-do/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912cbebf-1d60-4ba4-bf18-7ea4ed22070a.jpg)
