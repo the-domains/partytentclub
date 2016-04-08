@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Before you head down the road to success or make a turn onto the boulevard of broken dreams, here are a few tips that will help.'
-datePublished: '2016-04-08T01:47:18.928Z'
-dateModified: '2016-04-08T01:46:35.596Z'
+datePublished: '2016-04-08T04:07:07.322Z'
+dateModified: '2016-04-08T04:06:18.378Z'
 title: 3 Things To Understand Before You Launch a Web Design or SEO Company 3 THINGS TO UNDERSTAND BEFORE YOU LAUNCH A WEB DESIGN OR SEO COMPANY
 author: []
 sourcePath: _posts/2016-04-07-3-things-to-understand-before-you-launch-a-web-design-or-seo.md
