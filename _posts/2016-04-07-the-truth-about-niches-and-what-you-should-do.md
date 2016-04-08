@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.'
-datePublished: '2016-04-08T00:44:16.061Z'
-dateModified: '2016-04-08T00:44:15.263Z'
+datePublished: '2016-04-08T03:16:26.799Z'
+dateModified: '2016-04-08T03:11:47.047Z'
 title: THE TRUTH ABOUT NICHES AND WHAT YOU SHOULD DO
 author: []
 sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
@@ -25,9 +25,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912cbebf-1d60-4ba4-bf18-7ea4ed22070a.jpg)
 
 Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.
-
-[Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e650402ec5d1be67b2b3ae432bb339c0d3bcfdf6.jpg)
 
 ****
 
@@ -276,10 +273,14 @@ We can pretty much eliminate \#2, doing business locally within a certain niche 
 I personally would eliminate \#1, as being the local guy in my opinion is too limiting and not very fun.
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c650328-a23d-4972-8632-9608c696097d.jpg)
 
 Best doesn't equate to highest gross revenue. The best option, is one that you identified with what you want to accomplish. It's an individual decision, not a decision that can be determined by any collective.
 
-[See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][1]
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/940d01129b60708a1e55e14cebb787c7b0d8f5e5.jpg)
+
+[My recommended hosting provider. I have found hostgator to have the highest quality hosting for the best prices.][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/789a993631b30cb76aa3e6113f0b3f3bcd582985.gif)
 
 ****
