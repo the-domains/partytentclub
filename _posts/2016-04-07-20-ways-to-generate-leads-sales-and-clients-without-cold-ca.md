@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Every business owner has something in common. Everyone wants more profit, more leads, more sales, more clients, etc. One of the biggest struggles people have, is that they don’t know what to do to generate leads.'
-datePublished: '2016-04-08T00:48:00.551Z'
-dateModified: '2016-04-08T00:47:59.746Z'
+datePublished: '2016-04-08T08:19:11.692Z'
+dateModified: '2016-04-08T08:18:45.891Z'
 title: "Gather round. It's time to talk sales."
 author: []
 sourcePath: _posts/2016-04-07-20-ways-to-generate-leads-sales-and-clients-without-cold-ca.md
