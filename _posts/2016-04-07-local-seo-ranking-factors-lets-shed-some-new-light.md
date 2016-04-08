@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Every year the power house in the industry releases a survey of “professionals” in the local SEO arena. I’m sure most of you have heard of Moz.com and their Local SEO Ranking Factors survey that happen on a yearly basis. They take a handful of alleged experts and ask their opinions on certain things.
-datePublished: '2016-04-08T01:48:29.572Z'
-dateModified: '2016-04-08T01:48:26.227Z'
+datePublished: '2016-04-08T03:24:03.802Z'
+dateModified: '2016-04-08T03:24:02.864Z'
 title: LOCAL SEO RANKING FACTORS – LET’S SHED SOME NEW LIGHT
 author: []
 sourcePath: _posts/2016-04-07-local-seo-ranking-factors-lets-shed-some-new-light.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: local-seo-ranking-factors-lets-shed-some-new-light/index.html
-_type: Article
+_type: WebPage
 
 ---
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
