@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.'
-datePublished: '2016-04-08T00:30:38.138Z'
-dateModified: '2016-04-08T00:30:20.692Z'
+datePublished: '2016-04-08T00:36:29.807Z'
+dateModified: '2016-04-08T00:36:08.576Z'
 title: THE TRUTH ABOUT NICHES AND WHAT YOU SHOULD DO
 author: []
 sourcePath: _posts/2016-04-07-the-truth-about-niches-and-what-you-should-do.md
@@ -22,6 +22,8 @@ url: the-truth-about-niches-and-what-you-should-do/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912cbebf-1d60-4ba4-bf18-7ea4ed22070a.jpg)
+
 Those of you that are freelancers, or owners of web design, SEO, marketing companies and the like, have probably heard conflicting advice about whether you should focus on a single niche or multiple niches.
 
 [Shopify is the best choice for ecommerce sites based on comparison reviews.][0]
