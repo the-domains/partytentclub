@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Making the decision to start your own company is not an easy one. People are attracted to this business for countless reasons, like being your own boss, making more money, doing something you enjoy, spending more time with family, etc.'
-datePublished: '2016-04-08T00:20:01.253Z'
-dateModified: '2016-04-07T22:53:21.800Z'
+datePublished: '2016-04-08T00:33:26.970Z'
+dateModified: '2016-04-08T00:32:55.227Z'
 title: 5 MISTAKES I MADE WHEN STARTING MY AGENCY
 author: []
 sourcePath: _posts/2016-04-07-5-mistakes-beginners-make-when-starting-their-agency.md
@@ -19,9 +19,10 @@ publisher:
   url: null
   favicon: null
 url: 5-mistakes-beginners-make-when-starting-their-agency/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf2b3914-b701-4c51-9afe-399951efb752.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b84753b5bf0b593d543d16a3e3b3abaea674ad7.gif)
 
 [This is the best ecommerce website hosting and builder on the planet. Period!][0]
@@ -444,6 +445,9 @@ Have you made any of these mistakes? What was the biggest mistake you've made in
 [See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][2]
 
 ****
+
+  
+
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: http://www.imxprs.com/free/ritchbits/ultimate-agency-blueprint
