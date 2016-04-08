@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Before you head down the road to success or make a turn onto the boulevard of broken dreams, here are a few tips that will help.'
-datePublished: '2016-04-08T04:07:07.322Z'
-dateModified: '2016-04-08T04:06:18.378Z'
+datePublished: '2016-04-08T04:14:36.977Z'
+dateModified: '2016-04-08T04:07:16.203Z'
 title: 3 Things To Understand Before You Launch a Web Design or SEO Company 3 THINGS TO UNDERSTAND BEFORE YOU LAUNCH A WEB DESIGN OR SEO COMPANY
 author: []
 sourcePath: _posts/2016-04-07-3-things-to-understand-before-you-launch-a-web-design-or-seo.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 3-things-to-understand-before-you-launch-a-web-design-or-seo/index.html
-_type: Article
+_type: WebPage
 
 ---
 First off the tools I use for website design and seo which you can find below, starting with two of the most important. Ecommerce and hosting.
@@ -237,9 +237,6 @@ Honorable Mentions:
 
 * [Seed Keywords][26], a keyword research survey tool.
 * [Answer The Public][27], a tool like KeywordTool.io but with interesting visualization features.
-
-  
-
 
 [0]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
 [1]: http://partners.hostgator.com/c/247150/177309/3094
