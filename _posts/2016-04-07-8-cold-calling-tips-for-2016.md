@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It’s 2016… Technology is advancing, Google is getting more and more complex for many, Mobile usage is up and there are no signs of these things stopping. While businesses may be more willing when it comes to getting into the digital realm and expanding their marketing budgets; consultants and agencies are still using more traditional, “old school” methods.'
-datePublished: '2016-04-07T21:37:49.220Z'
-dateModified: '2016-04-07T21:37:48.437Z'
+datePublished: '2016-04-08T00:47:22.734Z'
+dateModified: '2016-04-08T00:47:21.765Z'
 title: 8 COLD CALLING TIPS FOR 2016
 author: []
 sourcePath: _posts/2016-04-07-8-cold-calling-tips-for-2016.md
