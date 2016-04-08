@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Throughout my time of running an agency, I’ve tried just about every prospecting method you can imagine. From networking to content marketing and even paying people to hand out flyers – it all seemed to be just mediocre.'
-datePublished: '2016-04-08T07:43:59.743Z'
-dateModified: '2016-04-08T03:10:24.263Z'
+datePublished: '2016-04-08T08:28:40.074Z'
+dateModified: '2016-04-08T08:28:39.637Z'
 title: HOW I WENT FROM 0 TO 25K/MO WITH THE HELP OF THIS STRATEGY
 author: []
 sourcePath: _posts/2016-04-07-how-i-went-from-0-to-25kmo-with-the-help-of-this-strategy.md
@@ -173,7 +173,7 @@ Richard has been a member of the Mastermind Group ([for those that have purchase
 
 Also worth checking out if you do business online:
 
-[Shopify is the best choice for ecommerce sites based on comparison reviews.][3]   
+[Shopify is the best choice for ecommerce sites based on comparison reviews.][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b36bcf3-d5e5-4d57-a7e1-c3e6076268be.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74d3b852517fb792c543ab902eca42ea078e36cf.gif)
 
