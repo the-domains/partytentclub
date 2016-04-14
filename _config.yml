@@ -1,20 +1,5 @@
-name: Income Boss
-favicon: null
-layout_spectrum: 0.47554
-typography_spectrum: 0.88786
-title: Income Boss
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-75791708-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ed1c24'
@@ -24,6 +9,11 @@ color:
     - '#a46ba8'
   brandStrength: 0.1875
   lightness: 0.875
-  saturation: 0.4375
   rhythmicContrast: 0.75
+  saturation: 0.4375
+cta: {}
+layout_spectrum: 0.352477
+name: Income Boss
+opengraph: {}
 purpose: []
+typography_spectrum: 0.88786
